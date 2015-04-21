@@ -1,0 +1,3159 @@
+// !$*UTF8*$!
+{
+	0E26D436147C30D500D6B86E /* Journey.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 639}}";
+			sepNavSelRange = "{507, 49}";
+			sepNavVisRange = "{0, 1165}";
+		};
+	};
+	0E26D437147C30D500D6B86E /* Journey.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 639}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{0, 634}";
+			sepNavWindowFrame = "{{15, 79}, {1242, 694}}";
+		};
+	};
+	0E26D439147C31A500D6B86E /* AllocatedJourney.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 741}}";
+			sepNavSelRange = "{786, 9}";
+			sepNavVisRange = "{43, 1527}";
+		};
+	};
+	0E26D43A147C31A500D6B86E /* AllocatedJourney.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 639}}";
+			sepNavSelRange = "{516, 0}";
+			sepNavVisRange = "{0, 775}";
+		};
+	};
+	0E26D43E147C38A800D6B86E /* JSONParser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {948, 614}}";
+			sepNavSelRange = "{454, 4}";
+			sepNavVisRange = "{0, 614}";
+		};
+	};
+	0E26D43F147C38A800D6B86E /* JSONParser.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1510, 4953}}";
+			sepNavSelRange = "{8849, 14}";
+			sepNavVisRange = "{7259, 2123}";
+			sepNavWindowFrame = "{{15, 59}, {750, 719}}";
+		};
+	};
+	0E572851147ECF0C00A8A1D4 /* Common.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1426, 3029}}";
+			sepNavSelRange = "{4474, 0}";
+			sepNavVisRange = "{0, 823}";
+			sepNavWindowFrame = "{{15, 77}, {750, 701}}";
+		};
+	};
+	0E572852147ECF0C00A8A1D4 /* Common.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {948, 614}}";
+			sepNavSelRange = "{976, 0}";
+			sepNavVisRange = "{0, 983}";
+		};
+	};
+	1D3623240D0F684500981E51 /* driverAppAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {943, 616}}";
+			sepNavSelRange = "{584, 6}";
+			sepNavVisRange = "{0, 702}";
+		};
+	};
+	1D3623250D0F684500981E51 /* driverAppAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 2691}}";
+			sepNavSelRange = "{5311, 0}";
+			sepNavVisRange = "{4631, 1718}";
+			sepNavWindowFrame = "{{15, 92}, {750, 686}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* driverApp */ = {
+		activeExec = 0;
+		executables = (
+			6DEFBB4714C833C10072C22B /* driverApp */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = "Reshma copy";
+		activeExecutable = 6DEFBB4714C833C10072C22B /* driverApp */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* driverApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* driverApp */,
+		);
+		breakpoints = (
+			6D03C0ED147102E0005CCFFE /* TravelDetails.m:64 */,
+			6D03C19F14711114005CCFFE /* ScheduledDeparture.m:22 */,
+			6D03C33614713E1F005CCFFE /* ScheduleDeparture.m:85 */,
+			6D03C3DF1471564C005CCFFE /* ScheduleDeparture.m:103 */,
+			6D03C4021471592A005CCFFE /* ScheduleDeparture.m:118 */,
+			6D4264E31472594D0010693F /* ScheduledJourneyDetails.m:97 */,
+			6D4267F31472A1E40010693F /* ScheduledJourneyDetails.m:31 */,
+			6DEE16911472B72100A461D7 /* ScheduledJourneyDetails.m:23 */,
+			6D9DD61A147CF96E005FED5E /* CompletedTravelDetails.m:64 */,
+			6D1780B6147E7EAD00A7E6C3 /* SplashScreen.m:28 */,
+			6D11334814836AD400CF954D /* HomePage.m:296 */,
+			6DFD8A0C1484DD2F008BC1F8 /* CompletedTravel.m:32 */,
+			6D9C3B6A15D91C0D0062FB0A /* ScheduleTravelDetails.m:336 */,
+			6DAC3CB016024A05003CDA91 /* NextPickUpDetails.m:218 */,
+			6DB75E5A1624248700D2754C /* NextPickUpDetails.m:195 */,
+			6DB75E9616242AF800D2754C /* ScheduleTravelDetails.m:475 */,
+			6DD9299E1625744900A58278 /* ScheduleJourneydetail.m:886 */,
+			6DAF0B8C16274FC000A9BC1A /* ScheduleTravelDetails.m:323 */,
+			6D427AA2163135200049CF50 /* ScheduleTravelDetails.m:225 */,
+			6DD105D116356E2300F8B38E /* LoginPage.m:264 */,
+			6DA20F9D16391D33006C333D /* WebServiceHelper.m:24 */,
+			6D7AEC7416392C5100D6CB7D /* ScheduleJourneydetail.m:1037 */,
+			6D4F4A67163FBB94003799FB /* ScheduleJourneydetail.m:1125 */,
+			6D4F4B7D163FF75F003799FB /* ScheduleJourneydetail.m:767 */,
+			6D4F4B95163FFD4E003799FB /* ScheduleJourneydetail.m:320 */,
+			6D4F4BA1163FFD70003799FB /* ScheduleJourneydetail.m:716 */,
+			6D4F4BDD164000F0003799FB /* ScheduleTravelDetails.m:380 */,
+			6D4F4BF616400192003799FB /* ScheduleTravelDetails.m:399 */,
+			6D4F4BF816400193003799FB /* ScheduleTravelDetails.m:403 */,
+			6D4F4C111640037F003799FB /* ScheduleTravelDetails.m:47 */,
+			6D4F4CCD16403BC8003799FB /* ScheduleJourneydetail.m:837 */,
+			6D4F4CCF16403BDE003799FB /* ScheduleJourneydetail.m:905 */,
+			6D4F4CD316403BE5003799FB /* ScheduleJourneydetail.m:934 */,
+			6D4F4CDE16403D59003799FB /* ScheduleJourneydetail.m:648 */,
+			6D4F4CFD16403F4E003799FB /* ScheduleJourneydetail.m:458 */,
+			6D4F4D0216403F8C003799FB /* ScheduleJourneydetail.m:494 */,
+		);
+		codeSenseManager = 6D03BF0F1470EBBC005CCFFE /* Code sense */;
+		executables = (
+			6DEFBB4714C833C10072C22B /* driverApp */,
+		);
+		expressions = (
+			json,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					782,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					809,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					717,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 373362717;
+			PBXWorkspaceStateSaveDate = 373362717;
+		};
+		perUserProjectItems = {
+			6D03C27314711BCF005CCFFE /* PBXTextBookmark */ = 6D03C27314711BCF005CCFFE /* PBXTextBookmark */;
+			6D03C2E3147129AE005CCFFE /* PBXTextBookmark */ = 6D03C2E3147129AE005CCFFE /* PBXTextBookmark */;
+			6D03C2E4147129AE005CCFFE /* PBXTextBookmark */ = 6D03C2E4147129AE005CCFFE /* PBXTextBookmark */;
+			6D03C2E9147129AE005CCFFE /* PBXTextBookmark */ = 6D03C2E9147129AE005CCFFE /* PBXTextBookmark */;
+			6D06C777158C659E0015CE5A /* PBXTextBookmark */ = 6D06C777158C659E0015CE5A /* PBXTextBookmark */;
+			6D06C829158C68CE0015CE5A /* PBXTextBookmark */ = 6D06C829158C68CE0015CE5A /* PBXTextBookmark */;
+			6D077A0F154FCFFB006210BD /* PBXTextBookmark */ = 6D077A0F154FCFFB006210BD /* PBXTextBookmark */;
+			6D11340F1483846000CF954D /* PBXTextBookmark */ = 6D11340F1483846000CF954D /* PBXTextBookmark */;
+			6D1137CF1483D41500CF954D /* PBXTextBookmark */ = 6D1137CF1483D41500CF954D /* PBXTextBookmark */;
+			6D177F0C147E657900A7E6C3 /* PBXTextBookmark */ = 6D177F0C147E657900A7E6C3 /* PBXTextBookmark */;
+			6D17819C147E8C4400A7E6C3 /* PBXTextBookmark */ = 6D17819C147E8C4400A7E6C3 /* PBXTextBookmark */;
+			6D1783E116411025003770C5 /* PBXTextBookmark */ = 6D1783E116411025003770C5 /* PBXTextBookmark */;
+			6D178D17147E29AC00E0087D /* PBXTextBookmark */ = 6D178D17147E29AC00E0087D /* PBXTextBookmark */;
+			6D178D50147E2FC000E0087D /* PBXTextBookmark */ = 6D178D50147E2FC000E0087D /* PBXTextBookmark */;
+			6D178D5C147E2FC000E0087D /* PBXTextBookmark */ = 6D178D5C147E2FC000E0087D /* PBXTextBookmark */;
+			6D178D5D147E2FC000E0087D /* PBXTextBookmark */ = 6D178D5D147E2FC000E0087D /* PBXTextBookmark */;
+			6D1A23C016234EE0008CF215 /* PBXTextBookmark */ = 6D1A23C016234EE0008CF215 /* PBXTextBookmark */;
+			6D1C765415F9E76500FA69DB /* PBXTextBookmark */ = 6D1C765415F9E76500FA69DB /* PBXTextBookmark */;
+			6D1C766315F9E79000FA69DB /* PBXTextBookmark */ = 6D1C766315F9E79000FA69DB /* PBXTextBookmark */;
+			6D1C766615F9E7A900FA69DB /* PBXTextBookmark */ = 6D1C766615F9E7A900FA69DB /* PBXTextBookmark */;
+			6D1C76C715F9EBC800FA69DB /* PBXTextBookmark */ = 6D1C76C715F9EBC800FA69DB /* PBXTextBookmark */;
+			6D1D19801490C46200647DE7 /* PBXTextBookmark */ = 6D1D19801490C46200647DE7 /* PBXTextBookmark */;
+			6D21FF6B1626D05B00970291 /* PBXTextBookmark */ = 6D21FF6B1626D05B00970291 /* PBXTextBookmark */;
+			6D21FFE11626F4FE00970291 /* PBXTextBookmark */ = 6D21FFE11626F4FE00970291 /* PBXTextBookmark */;
+			6D36166B15C3DD56000E9BF0 /* PBXTextBookmark */ = 6D36166B15C3DD56000E9BF0 /* PBXTextBookmark */;
+			6D3616A715C3E097000E9BF0 /* PBXTextBookmark */ = 6D3616A715C3E097000E9BF0 /* PBXTextBookmark */;
+			6D426534147265630010693F /* PBXTextBookmark */ = 6D426534147265630010693F /* PBXTextBookmark */;
+			6D42670D1472938E0010693F /* PBXTextBookmark */ = 6D42670D1472938E0010693F /* PBXTextBookmark */;
+			6D4268011472A23D0010693F /* PBXTextBookmark */ = 6D4268011472A23D0010693F /* PBXTextBookmark */;
+			6D427ACD1631394F0049CF50 /* PBXTextBookmark */ = 6D427ACD1631394F0049CF50 /* PBXTextBookmark */;
+			6D427AD21631394F0049CF50 /* PBXTextBookmark */ = 6D427AD21631394F0049CF50 /* PBXTextBookmark */;
+			6D427BF3163154AC0049CF50 /* PBXTextBookmark */ = 6D427BF3163154AC0049CF50 /* PBXTextBookmark */;
+			6D427BF5163154AC0049CF50 /* PBXTextBookmark */ = 6D427BF5163154AC0049CF50 /* PBXTextBookmark */;
+			6D4A384B163941D200D24194 /* PBXTextBookmark */ = 6D4A384B163941D200D24194 /* PBXTextBookmark */;
+			6D4A882F15219E76004407C5 /* PBXBookmark */ = 6D4A882F15219E76004407C5 /* PBXBookmark */;
+			6D4A883015219E76004407C5 /* PBXBookmark */ = 6D4A883015219E76004407C5 /* PBXBookmark */;
+			6D4A883415219E76004407C5 /* PBXBookmark */ = 6D4A883415219E76004407C5 /* PBXBookmark */;
+			6D4A89C71521AFCF004407C5 /* PBXTextBookmark */ = 6D4A89C71521AFCF004407C5 /* PBXTextBookmark */;
+			6D4B63EC16410CFD003A1DDB /* PBXTextBookmark */ = 6D4B63EC16410CFD003A1DDB /* PBXTextBookmark */;
+			6D4F4A6B163FBB99003799FB /* PBXTextBookmark */ = 6D4F4A6B163FBB99003799FB /* PBXTextBookmark */;
+			6D4F4A6C163FBB99003799FB /* PBXTextBookmark */ = 6D4F4A6C163FBB99003799FB /* PBXTextBookmark */;
+			6D4F4A6D163FBB99003799FB /* PBXTextBookmark */ = 6D4F4A6D163FBB99003799FB /* PBXTextBookmark */;
+			6D4F4A6E163FBB99003799FB /* PBXTextBookmark */ = 6D4F4A6E163FBB99003799FB /* PBXTextBookmark */;
+			6D4F4AAF163FD2CA003799FB /* PBXTextBookmark */ = 6D4F4AAF163FD2CA003799FB /* PBXTextBookmark */;
+			6D4F4B82163FF765003799FB /* PBXTextBookmark */ = 6D4F4B82163FF765003799FB /* PBXTextBookmark */;
+			6D4F4BBB163FFF58003799FB /* PBXTextBookmark */ = 6D4F4BBB163FFF58003799FB /* PBXTextBookmark */;
+			6D4F4BE616400105003799FB /* PBXTextBookmark */ = 6D4F4BE616400105003799FB /* PBXTextBookmark */;
+			6D4F4C1E164003D9003799FB /* PBXTextBookmark */ = 6D4F4C1E164003D9003799FB /* PBXTextBookmark */;
+			6D4F4C6216400E34003799FB /* PBXTextBookmark */ = 6D4F4C6216400E34003799FB /* PBXTextBookmark */;
+			6D4F4D141640419A003799FB /* PBXTextBookmark */ = 6D4F4D141640419A003799FB /* PBXTextBookmark */;
+			6D5472BF15E7A89400EF6B0E /* PBXTextBookmark */ = 6D5472BF15E7A89400EF6B0E /* PBXTextBookmark */;
+			6D58E35815E4EE01003E816C /* PBXTextBookmark */ = 6D58E35815E4EE01003E816C /* PBXTextBookmark */;
+			6D58E35A15E4EE01003E816C /* PBXTextBookmark */ = 6D58E35A15E4EE01003E816C /* PBXTextBookmark */;
+			6D5A7D8715E11A1B00533E88 /* PBXTextBookmark */ = 6D5A7D8715E11A1B00533E88 /* PBXTextBookmark */;
+			6D5A7D8915E11A1B00533E88 /* PBXTextBookmark */ = 6D5A7D8915E11A1B00533E88 /* PBXTextBookmark */;
+			6D719E5A14751D97004CC7B6 /* PBXTextBookmark */ = 6D719E5A14751D97004CC7B6 /* PBXTextBookmark */;
+			6D755CD816030DCC00E17B20 /* PBXBookmark */ = 6D755CD816030DCC00E17B20 /* PBXBookmark */;
+			6D755CDA16030DCC00E17B20 /* PBXBookmark */ = 6D755CDA16030DCC00E17B20 /* PBXBookmark */;
+			6D755DD016034B3400E17B20 /* PBXTextBookmark */ = 6D755DD016034B3400E17B20 /* PBXTextBookmark */;
+			6D755DD316034B3400E17B20 /* PBXTextBookmark */ = 6D755DD316034B3400E17B20 /* PBXTextBookmark */;
+			6D7AEC4E163928F600D6CB7D /* PBXTextBookmark */ = 6D7AEC4E163928F600D6CB7D /* PBXTextBookmark */;
+			6D7AECBE1639351E00D6CB7D /* PBXTextBookmark */ = 6D7AECBE1639351E00D6CB7D /* PBXTextBookmark */;
+			6D7AECC01639351E00D6CB7D /* PBXTextBookmark */ = 6D7AECC01639351E00D6CB7D /* PBXTextBookmark */;
+			6D7AECC21639351E00D6CB7D /* PBXTextBookmark */ = 6D7AECC21639351E00D6CB7D /* PBXTextBookmark */;
+			6D8716DA1473D69B0070E42A /* PBXTextBookmark */ = 6D8716DA1473D69B0070E42A /* PBXTextBookmark */;
+			6D9C3BFD15D925C30062FB0A /* PBXTextBookmark */ = 6D9C3BFD15D925C30062FB0A /* PBXTextBookmark */;
+			6D9C401114EBEB0900CB9607 /* PBXTextBookmark */ = 6D9C401114EBEB0900CB9607 /* PBXTextBookmark */;
+			6D9C404E14EBEEB500CB9607 /* PBXTextBookmark */ = 6D9C404E14EBEEB500CB9607 /* PBXTextBookmark */;
+			6D9C405914EBEF7700CB9607 /* PBXTextBookmark */ = 6D9C405914EBEF7700CB9607 /* PBXTextBookmark */;
+			6D9C405C14EBEF7700CB9607 /* PBXTextBookmark */ = 6D9C405C14EBEF7700CB9607 /* PBXTextBookmark */;
+			6D9F254B147F6B5900D784DF /* PBXTextBookmark */ = 6D9F254B147F6B5900D784DF /* PBXTextBookmark */;
+			6D9F26E8147FA0BC00D784DF /* PBXTextBookmark */ = 6D9F26E8147FA0BC00D784DF /* PBXTextBookmark */;
+			6D9F28C9147FC47A00D784DF /* PlistBookmark */ = 6D9F28C9147FC47A00D784DF /* PlistBookmark */;
+			6D9F2928147FD0C000D784DF /* PBXTextBookmark */ = 6D9F2928147FD0C000D784DF /* PBXTextBookmark */;
+			6DA36A4F1627038200A24DCE /* PBXTextBookmark */ = 6DA36A4F1627038200A24DCE /* PBXTextBookmark */;
+			6DAC3A5E1602189C003CDA91 /* PBXTextBookmark */ = 6DAC3A5E1602189C003CDA91 /* PBXTextBookmark */;
+			6DAC3A5F1602189C003CDA91 /* PBXTextBookmark */ = 6DAC3A5F1602189C003CDA91 /* PBXTextBookmark */;
+			6DAC3B271602322E003CDA91 /* PBXTextBookmark */ = 6DAC3B271602322E003CDA91 /* PBXTextBookmark */;
+			6DAC3B3E160232DC003CDA91 /* PBXTextBookmark */ = 6DAC3B3E160232DC003CDA91 /* PBXTextBookmark */;
+			6DAC3B40160232DC003CDA91 /* PBXTextBookmark */ = 6DAC3B40160232DC003CDA91 /* PBXTextBookmark */;
+			6DAC3CBF16024B8E003CDA91 /* PBXTextBookmark */ = 6DAC3CBF16024B8E003CDA91 /* PBXTextBookmark */;
+			6DAC3DAD16025AC8003CDA91 /* PBXTextBookmark */ = 6DAC3DAD16025AC8003CDA91 /* PBXTextBookmark */;
+			6DAC3DB416025AE6003CDA91 /* PBXTextBookmark */ = 6DAC3DB416025AE6003CDA91 /* PBXTextBookmark */;
+			6DAD525A14D1462700A49AB7 /* PBXBookmark */ = 6DAD525A14D1462700A49AB7 /* PBXBookmark */;
+			6DAD525B14D1462700A49AB7 /* PBXBookmark */ = 6DAD525B14D1462700A49AB7 /* PBXBookmark */;
+			6DAD525C14D1462700A49AB7 /* PBXBookmark */ = 6DAD525C14D1462700A49AB7 /* PBXBookmark */;
+			6DAD526B14D146C900A49AB7 /* PBXBookmark */ = 6DAD526B14D146C900A49AB7 /* PBXBookmark */;
+			6DAD611E148F5094002BB908 /* PBXTextBookmark */ = 6DAD611E148F5094002BB908 /* PBXTextBookmark */;
+			6DAEBB161614547A009889B5 /* PBXBookmark */ = 6DAEBB161614547A009889B5 /* PBXBookmark */;
+			6DAEC88014862F5B00A322A0 /* PBXTextBookmark */ = 6DAEC88014862F5B00A322A0 /* PBXTextBookmark */;
+			6DB2573A147BB85A00E1FE66 /* PBXTextBookmark */ = 6DB2573A147BB85A00E1FE66 /* PBXTextBookmark */;
+			6DB2586D147BE01C00E1FE66 /* PBXTextBookmark */ = 6DB2586D147BE01C00E1FE66 /* PBXTextBookmark */;
+			6DB75D60162407C300D2754C /* PBXTextBookmark */ = 6DB75D60162407C300D2754C /* PBXTextBookmark */;
+			6DB75E65162424AE00D2754C /* PBXTextBookmark */ = 6DB75E65162424AE00D2754C /* PBXTextBookmark */;
+			6DB75E6F1624254500D2754C /* PBXTextBookmark */ = 6DB75E6F1624254500D2754C /* PBXTextBookmark */;
+			6DB75EB316242C4F00D2754C /* PBXTextBookmark */ = 6DB75EB316242C4F00D2754C /* PBXTextBookmark */;
+			6DB75EB716242DCA00D2754C /* PBXTextBookmark */ = 6DB75EB716242DCA00D2754C /* PBXTextBookmark */;
+			6DB75F50162439D500D2754C /* PBXTextBookmark */ = 6DB75F50162439D500D2754C /* PBXTextBookmark */;
+			6DB75F53162439D500D2754C /* PBXTextBookmark */ = 6DB75F53162439D500D2754C /* PBXTextBookmark */;
+			6DB8D85E15EB3E3500B9E46A /* PBXTextBookmark */ = 6DB8D85E15EB3E3500B9E46A /* PBXTextBookmark */;
+			6DB8D8B615EB41B600B9E46A /* PBXTextBookmark */ = 6DB8D8B615EB41B600B9E46A /* PBXTextBookmark */;
+			6DB98D44162C1016003DCA4B /* PlistBookmark */ = 6DB98D44162C1016003DCA4B /* PlistBookmark */;
+			6DBAED301622D86E0042C4A7 /* PBXTextBookmark */ = 6DBAED301622D86E0042C4A7 /* PBXTextBookmark */;
+			6DBAEE701622F1D60042C4A7 /* PBXTextBookmark */ = 6DBAEE701622F1D60042C4A7 /* PBXTextBookmark */;
+			6DBAEEA71622F62C0042C4A7 /* PBXTextBookmark */ = 6DBAEEA71622F62C0042C4A7 /* PBXTextBookmark */;
+			6DBF1237149A056E004E804E /* PBXTextBookmark */ = 6DBF1237149A056E004E804E /* PBXTextBookmark */;
+			6DC026B315CA9E920047BC2F /* PBXTextBookmark */ = 6DC026B315CA9E920047BC2F /* PBXTextBookmark */;
+			6DC026B415CA9E920047BC2F /* PBXTextBookmark */ = 6DC026B415CA9E920047BC2F /* PBXTextBookmark */;
+			6DD105A91635653800F8B38E /* PBXTextBookmark */ = 6DD105A91635653800F8B38E /* PBXTextBookmark */;
+			6DD106771635779C00F8B38E /* PBXTextBookmark */ = 6DD106771635779C00F8B38E /* PBXTextBookmark */;
+			6DD106781635779C00F8B38E /* PBXTextBookmark */ = 6DD106781635779C00F8B38E /* PBXTextBookmark */;
+			6DD106851635789300F8B38E /* PBXTextBookmark */ = 6DD106851635789300F8B38E /* PBXTextBookmark */;
+			6DD106861635789300F8B38E /* PBXTextBookmark */ = 6DD106861635789300F8B38E /* PBXTextBookmark */;
+			6DD106881635789300F8B38E /* PBXTextBookmark */ = 6DD106881635789300F8B38E /* PBXTextBookmark */;
+			6DD106891635789300F8B38E /* PBXTextBookmark */ = 6DD106891635789300F8B38E /* PBXTextBookmark */;
+			6DD1068B1635789300F8B38E /* PBXTextBookmark */ = 6DD1068B1635789300F8B38E /* PBXTextBookmark */;
+			6DD3EF67148772A10081812D /* PBXTextBookmark */ = 6DD3EF67148772A10081812D /* PBXTextBookmark */;
+			6DD3F02C148793600081812D /* PBXTextBookmark */ = 6DD3F02C148793600081812D /* PBXTextBookmark */;
+			6DD8D77115B9861800185E43 /* PBXTextBookmark */ = 6DD8D77115B9861800185E43 /* PBXTextBookmark */;
+			6DD929571625665400A58278 /* PBXTextBookmark */ = 6DD929571625665400A58278 /* PBXTextBookmark */;
+			6DD929DA1625832400A58278 /* PBXTextBookmark */ = 6DD929DA1625832400A58278 /* PBXTextBookmark */;
+			6DD92A3C1625A19F00A58278 /* PBXTextBookmark */ = 6DD92A3C1625A19F00A58278 /* PBXTextBookmark */;
+			6DD92AAA1625AB8A00A58278 /* PBXTextBookmark */ = 6DD92AAA1625AB8A00A58278 /* PBXTextBookmark */;
+			6DDA7A0715C7A869007BF1D1 /* PlistBookmark */ = 6DDA7A0715C7A869007BF1D1 /* PlistBookmark */;
+			6DDA7A3515C7A869007BF1D1 /* PBXTextBookmark */ = 6DDA7A3515C7A869007BF1D1 /* PBXTextBookmark */;
+			6DDA7BF515C7A869007BF1D1 /* PBXTextBookmark */ = 6DDA7BF515C7A869007BF1D1 /* PBXTextBookmark */;
+			6DDD67B5147CCD7600399E78 /* PBXTextBookmark */ = 6DDD67B5147CCD7600399E78 /* PBXTextBookmark */;
+			6DE293B915CA7DFD00FEEAB7 /* PBXTextBookmark */ = 6DE293B915CA7DFD00FEEAB7 /* PBXTextBookmark */;
+			6DE293BC15CA7DFD00FEEAB7 /* PBXTextBookmark */ = 6DE293BC15CA7DFD00FEEAB7 /* PBXTextBookmark */;
+			6DE293CE15CA7FA400FEEAB7 /* PBXTextBookmark */ = 6DE293CE15CA7FA400FEEAB7 /* PBXTextBookmark */;
+			6DE2943915CA836A00FEEAB7 /* PBXTextBookmark */ = 6DE2943915CA836A00FEEAB7 /* PBXTextBookmark */;
+			6DEF96D2161C104E0031F957 /* PBXTextBookmark */ = 6DEF96D2161C104E0031F957 /* PBXTextBookmark */;
+			6DEF9920161C816B0031F957 /* PBXBookmark */ = 6DEF9920161C816B0031F957 /* PBXBookmark */;
+			6DEF9921161C816B0031F957 /* PBXBookmark */ = 6DEF9921161C816B0031F957 /* PBXBookmark */;
+			6DEFBC2A14C844A00072C22B /* PBXTextBookmark */ = 6DEFBC2A14C844A00072C22B /* PBXTextBookmark */;
+			6DF96370162AB8F90086EFFA /* PBXTextBookmark */ = 6DF96370162AB8F90086EFFA /* PBXTextBookmark */;
+			6DF9637D162ABA600086EFFA /* PBXTextBookmark */ = 6DF9637D162ABA600086EFFA /* PBXTextBookmark */;
+			6DFD8B2A1484F61D008BC1F8 /* PBXTextBookmark */ = 6DFD8B2A1484F61D008BC1F8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6D03BF0E1470EBBC005CCFFE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 553}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 362}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* driverApp_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 207}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 187}";
+		};
+	};
+	6D03BF0E1470EBBC005CCFFE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6D03BF0F1470EBBC005CCFFE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6D03BF2F1470ECA0005CCFFE /* SBJsonWriter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 2977}}";
+			sepNavSelRange = "{928, 0}";
+			sepNavVisRange = "{0, 1905}";
+		};
+	};
+	6D03BF301470ECA0005CCFFE /* SBJsonWriter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1664}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3302, 1267}";
+		};
+	};
+	6D03BF311470ECA0005CCFFE /* SBJsonParser.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 6760}}";
+			sepNavSelRange = "{2440, 0}";
+			sepNavVisRange = "{2616, 639}";
+		};
+	};
+	6D03BF321470ECA0005CCFFE /* SBJsonParser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1131}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1889, 1326}";
+		};
+	};
+	6D03BF331470ECA0005CCFFE /* SBJsonBase.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 1027}}";
+			sepNavSelRange = "{1849, 0}";
+			sepNavVisRange = "{1634, 1119}";
+		};
+	};
+	6D03BF341470ECA0005CCFFE /* SBJsonBase.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 1118}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1633, 1057}";
+		};
+	};
+	6D03BF351470ECA0005CCFFE /* NSString+SBJSON.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 598}}";
+			sepNavSelRange = "{1618, 16}";
+			sepNavVisRange = "{0, 1885}";
+		};
+	};
+	6D03BF361470ECA0005CCFFE /* NSString+SBJSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 624}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1910}";
+		};
+	};
+	6D03BF391470ECA0005CCFFE /* JSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2070, 858}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1135, 1622}";
+		};
+	};
+	6D03BFDD1470F63F005CCFFE /* TravelDetails.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = TravelDetails.m;
+		path = /Users/nagrajgopalakrishnan/Desktop/niranjan/driverApp/Classes/TravelDetails.m;
+		sourceTree = "<absolute>";
+	};
+	6D03C0ED147102E0005CCFFE /* TravelDetails.m:64 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D03BFDD1470F63F005CCFFE /* TravelDetails.m */;
+		functionName = "-connectionDidFinishLoading:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 64;
+		modificationTime = 373309849.033692;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D03C11214710B04005CCFFE /* ScheduledDeparture.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduledDeparture.m;
+		path = /Users/nagrajgopalakrishnan/Desktop/niranjan/driverApp/Classes/ScheduledDeparture.m;
+		sourceTree = "<absolute>";
+	};
+	6D03C19F14711114005CCFFE /* ScheduledDeparture.m:22 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D03C11214710B04005CCFFE /* ScheduledDeparture.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 22;
+		modificationTime = 373309849.0336229;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D03C27314711BCF005CCFFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03C27414711BCF005CCFFE /* NSURLConnection.h */;
+		name = "NSURLConnection.h: 408";
+		rLen = 84;
+		rLoc = 20773;
+		rType = 0;
+		vrLen = 1961;
+		vrLoc = 19863;
+	};
+	6D03C27414711BCF005CCFFE /* NSURLConnection.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSURLConnection.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLConnection.h;
+		sourceTree = "<absolute>";
+	};
+	6D03C29314711CC4005CCFFE /* ScheduleDeparture.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleDeparture.m;
+		path = /users/nagrajgopalakrishnan/Desktop/niranjan/driverApp/Classes/ScheduleDeparture.m;
+		sourceTree = "<absolute>";
+	};
+	6D03C2E3147129AE005CCFFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03BF321470ECA0005CCFFE /* SBJsonParser.h */;
+		name = "SBJsonParser.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1326;
+		vrLoc = 1889;
+	};
+	6D03C2E4147129AE005CCFFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03BF301470ECA0005CCFFE /* SBJsonWriter.h */;
+		name = "SBJsonWriter.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 3302;
+	};
+	6D03C2E9147129AE005CCFFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03BF391470ECA0005CCFFE /* JSON.h */;
+		name = "JSON.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1622;
+		vrLoc = 1135;
+	};
+	6D03C33614713E1F005CCFFE /* ScheduleDeparture.m:85 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D03C29314711CC4005CCFFE /* ScheduleDeparture.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 85;
+		modificationTime = 373309849.033439;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D03C35914714176005CCFFE /* TableViewCell.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = TableViewCell.h;
+		path = "/users/nagrajgopalakrishnan/Desktop/BackUps/2 Aug/driverApp/Classes/TableViewCell.h";
+		sourceTree = "<absolute>";
+	};
+	6D03C35A14714176005CCFFE /* TableViewCell.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = TableViewCell.m;
+		path = "/users/nagrajgopalakrishnan/Desktop/BackUps/2 Aug/driverApp/Classes/TableViewCell.m";
+		sourceTree = "<absolute>";
+	};
+	6D03C3DF1471564C005CCFFE /* ScheduleDeparture.m:103 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D03C29314711CC4005CCFFE /* ScheduleDeparture.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 103;
+		modificationTime = 373309849.033553;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D03C4021471592A005CCFFE /* ScheduleDeparture.m:118 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D03C29314711CC4005CCFFE /* ScheduleDeparture.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 118;
+		modificationTime = 373309849.0335761;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D06C777158C659E0015CE5A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D4A88B31521A290004407C5 /* JSONParser.m */;
+		name = "JSONParser.m: 56";
+		rLen = 0;
+		rLoc = 1217;
+		rType = 0;
+		vrLen = 645;
+		vrLoc = 416;
+	};
+	6D06C829158C68CE0015CE5A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DC0C64E14D288C8002D3B49 /* CGGeometry.h */;
+		name = "CGGeometry.h: 273";
+		rLen = 0;
+		rLoc = 8537;
+		rType = 0;
+		vrLen = 622;
+		vrLoc = 8112;
+	};
+	6D077A0F154FCFFB006210BD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D466CEA154E7AC200EC04E3 /* JOurneyAdapter.java */;
+		name = "JOurneyAdapter.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1092;
+		vrLoc = 0;
+	};
+	6D11334814836AD400CF954D /* HomePage.m:296 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D1134C614839DC100CF954D /* HomePage.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 296;
+		location = driverApp;
+		modificationTime = 373309450.515705;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D11340F1483846000CF954D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03C35914714176005CCFFE /* TableViewCell.h */;
+		name = "TableViewCell.h: 16";
+		rLen = 0;
+		rLoc = 332;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 0;
+	};
+	6D1134C514839DC100CF954D /* HomePage.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 616}}";
+			sepNavSelRange = "{66, 0}";
+			sepNavVisRange = "{0, 895}";
+		};
+	};
+	6D1134C614839DC100CF954D /* HomePage.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 4199}}";
+			sepNavSelRange = "{2141, 22}";
+			sepNavVisRange = "{1183, 1847}";
+			sepNavWindowFrame = "{{15, 85}, {750, 693}}";
+		};
+	};
+	6D11354B1483A55E00CF954D /* DetailtableViewCellBackground.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 59}, {750, 719}}";
+		};
+	};
+	6D1137CF1483D41500CF954D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03C35A14714176005CCFFE /* TableViewCell.m */;
+		name = "TableViewCell.m: 15";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 774;
+		vrLoc = 0;
+	};
+	6D177F0C147E657900A7E6C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D177F0D147E657900A7E6C3 /* socket.h */;
+		name = "socket.h: 597";
+		rLen = 81;
+		rLoc = 21530;
+		rType = 0;
+		vrLen = 1648;
+		vrLoc = 20699;
+	};
+	6D177F0D147E657900A7E6C3 /* socket.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = socket.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/socket.h;
+		sourceTree = "<absolute>";
+	};
+	6D177F75147E68F300A7E6C3 /* SplashScreen.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SplashScreen.m;
+		path = /users/nagrajgopalakrishnan/Desktop/niranjan/driverApp_Niranjan/Classes/SplashScreen.m;
+		sourceTree = "<absolute>";
+	};
+	6D1780B6147E7EAD00A7E6C3 /* SplashScreen.m:28 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D177F75147E68F300A7E6C3 /* SplashScreen.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 28;
+		modificationTime = 373309849.033393;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D17810D147E835600A7E6C3 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	6D17819C147E8C4400A7E6C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D17819D147E8C4400A7E6C3 /* UIAlertView.h */;
+		name = "UIAlertView.h: 103";
+		rLen = 18;
+		rLoc = 4130;
+		rType = 0;
+		vrLen = 2463;
+		vrLoc = 3424;
+	};
+	6D17819D147E8C4400A7E6C3 /* UIAlertView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIAlertView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h;
+		sourceTree = "<absolute>";
+	};
+	6D1783E116411025003770C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D63F5E215DA4E55008D166D /* ALToastView.m */;
+		name = "ALToastView.m: 119";
+		rLen = 0;
+		rLoc = 3899;
+		rType = 0;
+		vrLen = 1378;
+		vrLoc = 2794;
+	};
+	6D178D17147E29AC00E0087D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D178D18147E29AC00E0087D /* UIResponder.h */;
+		name = "UIResponder.h: 24";
+		rLen = 16;
+		rLoc = 464;
+		rType = 0;
+		vrLen = 1672;
+		vrLoc = 0;
+	};
+	6D178D18147E29AC00E0087D /* UIResponder.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIResponder.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h;
+		sourceTree = "<absolute>";
+	};
+	6D178D35147E2DC300E0087D /* UITextField.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITextField.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextField.h;
+		sourceTree = "<absolute>";
+	};
+	6D178D50147E2FC000E0087D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D178D35147E2DC300E0087D /* UITextField.h */;
+		name = "UITextField.h: 182";
+		rLen = 0;
+		rLoc = 7736;
+		rType = 0;
+		vrLen = 2187;
+		vrLoc = 6649;
+	};
+	6D178D5C147E2FC000E0087D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "Common.h: 14";
+		rLen = 1;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	6D178D5D147E2FC000E0087D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "Common.m: 36";
+		rLen = 12;
+		rLoc = 983;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 160;
+	};
+	6D1A23AE16234DE2008CF215 /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/8 Oct/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6D1A23C016234EE0008CF215 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D1A23AE16234DE2008CF215 /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 336;
+		rType = 1;
+	};
+	6D1C758815F9CF3300FA69DB /* LoginPage.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = LoginPage.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/7 Sept/driverApp/Classes/LoginPage.m";
+		sourceTree = "<absolute>";
+	};
+	6D1C75B015F9D8F400FA69DB /* CoreLocation.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CoreLocation.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/7 Sept/driverApp/Classes/CoreLocation.m";
+		sourceTree = "<absolute>";
+	};
+	6D1C75E415F9E0D900FA69DB /* CLLocationManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CLLocationManager.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h;
+		sourceTree = "<absolute>";
+	};
+	6D1C765415F9E76500FA69DB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DACE16015F7B77B0048EF1F /* CoreLocation.h */;
+		name = "CoreLocation.h: 15";
+		rLen = 48;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 0;
+	};
+	6D1C766315F9E79000FA69DB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D1C758815F9CF3300FA69DB /* LoginPage.m */;
+		rLen = 0;
+		rLoc = 97;
+		rType = 1;
+	};
+	6D1C766615F9E7A900FA69DB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D1C75B015F9D8F400FA69DB /* CoreLocation.m */;
+		rLen = 0;
+		rLoc = 29;
+		rType = 1;
+	};
+	6D1C766F15F9E7F800FA69DB /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/7 Sept/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6D1C76C715F9EBC800FA69DB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D1C766F15F9E7F800FA69DB /* JSONParser.m */;
+		name = "JSONParser.m: 120";
+		rLen = 0;
+		rLoc = 4278;
+		rType = 0;
+		vrLen = 1898;
+		vrLoc = 3374;
+	};
+	6D1D19801490C46200647DE7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D719D051474F50D004CC7B6 /* Reachability.m */;
+		name = "Reachability.m: 134";
+		rLen = 0;
+		rLoc = 5221;
+		rType = 0;
+		vrLen = 1134;
+		vrLoc = 5046;
+	};
+	6D21FF6B1626D05B00970291 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DD928CE16254FB900A58278 /* ScheduleJourneydetail.m */;
+		name = "ScheduleJourneydetail.m: 94";
+		rLen = 0;
+		rLoc = 3375;
+		rType = 0;
+		vrLen = 1846;
+		vrLoc = 2682;
+	};
+	6D21FFE11626F4FE00970291 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DBE1AF114D6CEE000F5E1FA /* LoginPage.h */;
+		name = "LoginPage.h: 19";
+		rLen = 0;
+		rLoc = 435;
+		rType = 0;
+		vrLen = 1440;
+		vrLoc = 33;
+	};
+	6D36166B15C3DD56000E9BF0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D36166C15C3DD56000E9BF0 /* ScheduleTravelDetails.m */;
+		name = "ScheduleTravelDetails.m: 64";
+		rLen = 0;
+		rLoc = 2464;
+		rType = 0;
+		vrLen = 1679;
+		vrLoc = 7188;
+	};
+	6D36166C15C3DD56000E9BF0 /* ScheduleTravelDetails.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleTravelDetails.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/23 July/driverApp/Classes/ScheduleTravelDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6D3616A715C3E097000E9BF0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DDA79DE15C7A869007BF1D1 /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 522;
+		rType = 1;
+	};
+	6D4264E31472594D0010693F /* ScheduledJourneyDetails.m:97 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D873F9E14723529002DA626 /* ScheduledJourneyDetails.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 97;
+		modificationTime = 373309849.033532;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D426534147265630010693F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D426535147265630010693F /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 237";
+		rLen = 23;
+		rLoc = 9477;
+		rType = 0;
+		vrLen = 786;
+		vrLoc = 10884;
+	};
+	6D426535147265630010693F /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	6D42670D1472938E0010693F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03BF361470ECA0005CCFFE /* NSString+SBJSON.h */;
+		name = "NSString+SBJSON.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1910;
+		vrLoc = 0;
+	};
+	6D4267F31472A1E40010693F /* ScheduledJourneyDetails.m:31 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D873F9E14723529002DA626 /* ScheduledJourneyDetails.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 31;
+		modificationTime = 373309849.033649;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4268011472A23D0010693F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D4268021472A23D0010693F /* UISegmentedControl.h */;
+		name = "UISegmentedControl.h: 26";
+		rLen = 80;
+		rLoc = 651;
+		rType = 0;
+		vrLen = 1401;
+		vrLoc = 97;
+	};
+	6D4268021472A23D0010693F /* UISegmentedControl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UISegmentedControl.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISegmentedControl.h;
+		sourceTree = "<absolute>";
+	};
+	6D427AA2163135200049CF50 /* ScheduleTravelDetails.m:225 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBD15D2752700F1487C /* ScheduleTravelDetails.m */;
+		functionName = "-alertView:clickedButtonAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 225;
+		location = driverApp;
+		modificationTime = 373309450.5157921;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D427AAB1631356C0049CF50 /* ScheduleTravelDetails.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleTravelDetails.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/14 Oct/driverApp/Classes/ScheduleTravelDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6D427AAF1631356C0049CF50 /* WebServiceHelper.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = WebServiceHelper.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/14 Oct/driverApp/Classes/WebServiceHelper.m";
+		sourceTree = "<absolute>";
+	};
+	6D427ACD1631394F0049CF50 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D427AAF1631356C0049CF50 /* WebServiceHelper.m */;
+		rLen = 0;
+		rLoc = 23;
+		rType = 1;
+	};
+	6D427AD21631394F0049CF50 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D427AAB1631356C0049CF50 /* ScheduleTravelDetails.m */;
+		rLen = 0;
+		rLoc = 461;
+		rType = 1;
+	};
+	6D427BF3163154AC0049CF50 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DF96364162AB8060086EFFA /* JSONParser.m */;
+		name = "JSONParser.m: 51";
+		rLen = 0;
+		rLoc = 1013;
+		rType = 0;
+		vrLen = 2287;
+		vrLoc = 6783;
+	};
+	6D427BF5163154AC0049CF50 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DF9639B162ABB420086EFFA /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 373;
+		rType = 1;
+	};
+	6D466CEA154E7AC200EC04E3 /* JOurneyAdapter.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = JOurneyAdapter.java;
+		path = "/Users/nagrajgopalakrishnan/Desktop/WiseCabs Android/17 April/driverapp/src/com/wisecabs/driverapp/entity/JOurneyAdapter.java";
+		sourceTree = "<absolute>";
+	};
+	6D4A384B163941D200D24194 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DA20F8A16391B7B006C333D /* JSONParser.m */;
+		name = "JSONParser.m: 182";
+		rLen = 0;
+		rLoc = 8320;
+		rType = 0;
+		vrLen = 2272;
+		vrLoc = 6783;
+	};
+	6D4A882F15219E76004407C5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6DBE1B0814D6CFF200F5E1FA /* complete2-01.png */;
+	};
+	6D4A883015219E76004407C5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6D098CEA14CD3FC10099D986 /* ActionSheetIcon2.png */;
+	};
+	6D4A883415219E76004407C5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6DA735BF14C6E82D00E8C896 /* new_logo.png */;
+	};
+	6D4A88B31521A290004407C5 /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/26 Mar/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6D4A89C71521AFCF004407C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D1134C514839DC100CF954D /* HomePage.h */;
+		name = "HomePage.h: 5";
+		rLen = 0;
+		rLoc = 66;
+		rType = 0;
+		vrLen = 895;
+		vrLoc = 0;
+	};
+	6D4B63EC16410CFD003A1DDB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D63F5E215DA4E55008D166D /* ALToastView.m */;
+		name = "ALToastView.m: 119";
+		rLen = 0;
+		rLoc = 3899;
+		rType = 0;
+		vrLen = 1378;
+		vrLoc = 2794;
+	};
+	6D4F4A67163FBB94003799FB /* ScheduleJourneydetail.m:1125 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 1125;
+		location = driverApp;
+		modificationTime = 373309762.319608;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4A6B163FBB99003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E26D437147C30D500D6B86E /* Journey.m */;
+		name = "Journey.m: 14";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 634;
+		vrLoc = 0;
+	};
+	6D4F4A6C163FBB99003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E26D439147C31A500D6B86E /* AllocatedJourney.h */;
+		name = "AllocatedJourney.h: 37";
+		rLen = 9;
+		rLoc = 786;
+		rType = 0;
+		vrLen = 1527;
+		vrLoc = 43;
+	};
+	6D4F4A6D163FBB99003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E26D43A147C31A500D6B86E /* AllocatedJourney.m */;
+		name = "AllocatedJourney.m: 20";
+		rLen = 0;
+		rLoc = 516;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 0;
+	};
+	6D4F4A6E163FBB99003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E26D436147C30D500D6B86E /* Journey.h */;
+		name = "Journey.h: 28";
+		rLen = 49;
+		rLoc = 507;
+		rType = 0;
+		vrLen = 1165;
+		vrLoc = 0;
+	};
+	6D4F4A82163FBBBF003799FB /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6D4F4A87163FBBBF003799FB /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6D4F4AAF163FD2CA003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DB257E8147BCF5800E1FE66 /* WebServiceHelper.m */;
+		rLen = 1;
+		rLoc = 22;
+		rType = 1;
+	};
+	6D4F4B7D163FF75F003799FB /* ScheduleJourneydetail.m:767 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-alertView:clickedButtonAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 767;
+		location = driverApp;
+		modificationTime = 373309450.515868;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4B82163FF765003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D9DD639147CFC4C005FED5E /* DropComplete.h */;
+		name = "DropComplete.h: 22";
+		rLen = 0;
+		rLoc = 422;
+		rType = 0;
+		vrLen = 874;
+		vrLoc = 0;
+	};
+	6D4F4B95163FFD4E003799FB /* ScheduleJourneydetail.m:320 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-JourneyAction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 320;
+		location = driverApp;
+		modificationTime = 373309450.515882;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4BA1163FFD70003799FB /* ScheduleJourneydetail.m:716 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-alertView:clickedButtonAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 716;
+		location = driverApp;
+		modificationTime = 373309450.515891;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4BBB163FFF58003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D807EBA15D2752700F1487C /* ScheduleJourneydetail.h */;
+		name = "ScheduleJourneydetail.h: 60";
+		rLen = 0;
+		rLoc = 1450;
+		rType = 0;
+		vrLen = 1683;
+		vrLoc = 1167;
+	};
+	6D4F4BDD164000F0003799FB /* ScheduleTravelDetails.m:380 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBD15D2752700F1487C /* ScheduleTravelDetails.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 380;
+		location = driverApp;
+		modificationTime = 373309766.722919;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4BE616400105003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D807EBC15D2752700F1487C /* ScheduleTravelDetails.h */;
+		name = "ScheduleTravelDetails.h: 13";
+		rLen = 13;
+		rLoc = 370;
+		rType = 0;
+		vrLen = 1779;
+		vrLoc = 203;
+	};
+	6D4F4BF616400192003799FB /* ScheduleTravelDetails.m:399 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBD15D2752700F1487C /* ScheduleTravelDetails.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 399;
+		location = driverApp;
+		modificationTime = 373309769.5327048;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4BF816400193003799FB /* ScheduleTravelDetails.m:403 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBD15D2752700F1487C /* ScheduleTravelDetails.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 403;
+		location = driverApp;
+		modificationTime = 373309770.877284;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4C111640037F003799FB /* ScheduleTravelDetails.m:47 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBD15D2752700F1487C /* ScheduleTravelDetails.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 47;
+		location = driverApp;
+		modificationTime = 373309764.620821;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4C1E164003D9003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D807EBD15D2752700F1487C /* ScheduleTravelDetails.m */;
+		name = "ScheduleTravelDetails.m: 36";
+		rLen = 0;
+		rLoc = 1279;
+		rType = 0;
+		vrLen = 1701;
+		vrLoc = 844;
+	};
+	6D4F4C6216400E34003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D4F4A87163FBBBF003799FB /* JSONParser.m */;
+		rLen = 0;
+		rLoc = 179;
+		rType = 1;
+	};
+	6D4F4CCD16403BC8003799FB /* ScheduleJourneydetail.m:837 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-numberOfSectionsInTableView:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 837;
+		location = driverApp;
+		modificationTime = 373309450.515947;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4CCF16403BDE003799FB /* ScheduleJourneydetail.m:905 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-tableView:numberOfRowsInSection:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 905;
+		location = driverApp;
+		modificationTime = 373309450.515957;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4CD316403BE5003799FB /* ScheduleJourneydetail.m:934 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 934;
+		location = driverApp;
+		modificationTime = 373309737.797734;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4CDE16403D59003799FB /* ScheduleJourneydetail.m:648 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-getJourney";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 648;
+		location = driverApp;
+		modificationTime = 373309817.484499;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4CFD16403F4E003799FB /* ScheduleJourneydetail.m:458 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-getJourney";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 458;
+		location = driverApp;
+		modificationTime = 373309775.384013;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4D0216403F8C003799FB /* ScheduleJourneydetail.m:494 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-getJourney";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 494;
+		location = driverApp;
+		modificationTime = 373309785.899305;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D4F4D141640419A003799FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D4F4A82163FBBBF003799FB /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 648;
+		rType = 1;
+	};
+	6D5472BF15E7A89400EF6B0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DD7ED9315E660FC00EB82A9 /* ScheduleTravelDetails.m */;
+		name = "ScheduleTravelDetails.m: 125";
+		rLen = 0;
+		rLoc = 4993;
+		rType = 0;
+		vrLen = 2481;
+		vrLoc = 360;
+	};
+	6D58E2F615E4D8DF003E816C /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/16 Aug/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6D58E2FB15E4D8DF003E816C /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/16 Aug/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6D58E35815E4EE01003E816C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D58E2FB15E4D8DF003E816C /* JSONParser.m */;
+		name = "JSONParser.m: 51";
+		rLen = 0;
+		rLoc = 1012;
+		rType = 0;
+		vrLen = 1858;
+		vrLoc = 472;
+	};
+	6D58E35A15E4EE01003E816C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D58E2F615E4D8DF003E816C /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 367;
+		rType = 1;
+	};
+	6D5A7A3E15DF7CBA00533E88 /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/14 Aug/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6D5A7D1615DF7FC200533E88 /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/14 Aug/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6D5A7D8715E11A1B00533E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D5A7D1615DF7FC200533E88 /* JSONParser.m */;
+		name = "JSONParser.m: 51";
+		rLen = 0;
+		rLoc = 1012;
+		rType = 0;
+		vrLen = 1809;
+		vrLoc = 520;
+	};
+	6D5A7D8915E11A1B00533E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D5A7A3E15DF7CBA00533E88 /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 247;
+		rType = 1;
+	};
+	6D63F5E215DA4E55008D166D /* ALToastView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 2236}}";
+			sepNavSelRange = "{3899, 0}";
+			sepNavVisRange = "{2794, 1378}";
+			sepNavWindowFrame = "{{15, 79}, {1242, 694}}";
+		};
+	};
+	6D719D051474F50D004CC7B6 /* Reachability.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 3354}}";
+			sepNavSelRange = "{5221, 0}";
+			sepNavVisRange = "{5046, 1134}";
+		};
+	};
+	6D719D061474F50D004CC7B6 /* Reachability.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1105}}";
+			sepNavSelRange = "{2765, 0}";
+			sepNavVisRange = "{2385, 479}";
+		};
+	};
+	6D719E5A14751D97004CC7B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03BF331470ECA0005CCFFE /* SBJsonBase.m */;
+		name = "SBJsonBase.m: 50";
+		rLen = 0;
+		rLoc = 1849;
+		rType = 0;
+		vrLen = 1119;
+		vrLoc = 1634;
+	};
+	6D755C361602F85D00E17B20 /* ScheduleTravelDetails.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleTravelDetails.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/14 Sept/driverApp/Classes/ScheduleTravelDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6D755CD816030DCC00E17B20 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6D11354B1483A55E00CF954D /* DetailtableViewCellBackground.png */;
+	};
+	6D755CDA16030DCC00E17B20 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6DCA86E214C93A2C00436527 /* Default.png */;
+	};
+	6D755D18160313C000E17B20 /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/14 Sept/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6D755DD016034B3400E17B20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D755D18160313C000E17B20 /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 201;
+		rType = 1;
+	};
+	6D755DD316034B3400E17B20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D755C361602F85D00E17B20 /* ScheduleTravelDetails.m */;
+		rLen = 0;
+		rLoc = 195;
+		rType = 1;
+	};
+	6D7AEC4E163928F600D6CB7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DA20F8316391B7B006C333D /* LoginPage.m */;
+		name = "LoginPage.m: 264";
+		rLen = 0;
+		rLoc = 8994;
+		rType = 0;
+		vrLen = 1666;
+		vrLoc = 8116;
+	};
+	6D7AEC7416392C5100D6CB7D /* ScheduleJourneydetail.m:1037 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-tableView:accessoryButtonTappedForRowWithIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1037;
+		location = driverApp;
+		modificationTime = 373309450.515829;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D7AECBE1639351E00D6CB7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DA20FFB16392485006C333D /* ScheduleTravelDetails.m */;
+		rLen = 0;
+		rLoc = 161;
+		rType = 1;
+	};
+	6D7AECC01639351E00D6CB7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DA20F8516391B7B006C333D /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 682;
+		rType = 1;
+	};
+	6D7AECC21639351E00D6CB7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DA20FA316391D50006C333D /* WebServiceHelper.m */;
+		name = "WebServiceHelper.m: 24";
+		rLen = 0;
+		rLoc = 476;
+		rType = 0;
+		vrLen = 1307;
+		vrLoc = 0;
+	};
+	6D807EB815D2752700F1487C /* DetailTableViewCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 591}}";
+			sepNavSelRange = "{434, 14}";
+			sepNavVisRange = "{0, 970}";
+		};
+	};
+	6D807EB915D2752700F1487C /* DetailTableViewCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 624}}";
+			sepNavSelRange = "{890, 0}";
+			sepNavVisRange = "{0, 1013}";
+		};
+	};
+	6D807EBA15D2752700F1487C /* ScheduleJourneydetail.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 1612}}";
+			sepNavSelRange = "{1450, 0}";
+			sepNavVisRange = "{1167, 1683}";
+		};
+	};
+	6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1461, 16718}}";
+			sepNavSelRange = "{30094, 0}";
+			sepNavVisRange = "{29510, 1113}";
+			sepNavWindowFrame = "{{15, 79}, {1242, 694}}";
+		};
+	};
+	6D807EBC15D2752700F1487C /* ScheduleTravelDetails.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 884}}";
+			sepNavSelRange = "{370, 13}";
+			sepNavVisRange = "{203, 1779}";
+		};
+	};
+	6D807EBD15D2752700F1487C /* ScheduleTravelDetails.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 7449}}";
+			sepNavSelRange = "{1279, 0}";
+			sepNavVisRange = "{844, 1701}";
+			sepNavWindowFrame = "{{15, 79}, {1242, 694}}";
+		};
+	};
+	6D807EC715D2757500F1487C /* TableViewCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 614}}";
+			sepNavSelRange = "{558, 0}";
+			sepNavVisRange = "{0, 571}";
+		};
+	};
+	6D807EC815D2757500F1487C /* TableViewCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 624}}";
+			sepNavSelRange = "{271, 0}";
+			sepNavVisRange = "{0, 837}";
+		};
+	};
+	6D807ED115D275C200F1487C /* NextPickUpDetails.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 591}}";
+			sepNavSelRange = "{516, 14}";
+			sepNavVisRange = "{0, 886}";
+		};
+	};
+	6D807ED215D275C200F1487C /* NextPickUpDetails.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1384, 3198}}";
+			sepNavSelRange = "{6949, 0}";
+			sepNavVisRange = "{6806, 1641}";
+		};
+	};
+	6D8715381473A0590070E42A /* ScheduleJourneydetail.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ScheduleJourneydetail.h;
+		path = "/users/nagrajgopalakrishnan/Desktop/BackUps/2 Aug/driverApp/Classes/ScheduleJourneydetail.h";
+		sourceTree = "<absolute>";
+	};
+	6D8715391473A0590070E42A /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/users/nagrajgopalakrishnan/Desktop/BackUps/2 Aug/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6D8716901473CD040070E42A /* NSPredicate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSPredicate.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPredicate.h;
+		sourceTree = "<absolute>";
+	};
+	6D8716DA1473D69B0070E42A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D8716901473CD040070E42A /* NSPredicate.h */;
+		name = "NSPredicate.h: 20";
+		rLen = 0;
+		rLoc = 769;
+		rType = 0;
+		vrLen = 2029;
+		vrLoc = 17;
+	};
+	6D873F9E14723529002DA626 /* ScheduledJourneyDetails.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduledJourneyDetails.m;
+		path = /users/nagrajgopalakrishnan/Desktop/niranjan/driverApp/Classes/ScheduledJourneyDetails.m;
+		sourceTree = "<absolute>";
+	};
+	6D9C3B6A15D91C0D0062FB0A /* ScheduleTravelDetails.m:336 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBD15D2752700F1487C /* ScheduleTravelDetails.m */;
+		functionName = "-actionSheet:clickedButtonAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 336;
+		location = driverApp;
+		modificationTime = 373309450.515726;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D9C3BFD15D925C30062FB0A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DDA7AA515C7A869007BF1D1 /* JourneyDateWise.h */;
+		name = "JourneyDateWise.h: 18";
+		rLen = 4;
+		rLoc = 404;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 0;
+	};
+	6D9C401114EBEB0900CB9607 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DB257E7147BCF5800E1FE66 /* WebServiceHelper.h */;
+		name = "WebServiceHelper.h: 15";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 604;
+		vrLoc = 0;
+	};
+	6D9C404314EBEE4F00CB9607 /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/15 Feb/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6D9C404E14EBEEB500CB9607 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D9C404F14EBEEB500CB9607 /* WebServiceHelper.m */;
+		rLen = 0;
+		rLoc = 36;
+		rType = 1;
+	};
+	6D9C404F14EBEEB500CB9607 /* WebServiceHelper.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = WebServiceHelper.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/15 Feb/driverApp/Classes/WebServiceHelper.m";
+		sourceTree = "<absolute>";
+	};
+	6D9C405214EBEEB500CB9607 /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/15 Feb/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6D9C405914EBEF7700CB9607 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D9C404314EBEE4F00CB9607 /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 139;
+		rType = 1;
+	};
+	6D9C405C14EBEF7700CB9607 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D9C405214EBEEB500CB9607 /* JSONParser.m */;
+		rLen = 0;
+		rLoc = 41;
+		rType = 1;
+	};
+	6D9DD61A147CF96E005FED5E /* CompletedTravelDetails.m:64 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6DDD67AE147CCD4A00399E78 /* CompletedTravelDetails.m */;
+		functionName = "-tableView:numberOfRowsInSection:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 64;
+		modificationTime = 373309849.0335978;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6D9DD639147CFC4C005FED5E /* DropComplete.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 591}}";
+			sepNavSelRange = "{422, 0}";
+			sepNavVisRange = "{0, 874}";
+			sepNavWindowFrame = "{{15, 59}, {750, 719}}";
+		};
+	};
+	6D9DD63A147CFC4C005FED5E /* DropComplete.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1755, 2093}}";
+			sepNavSelRange = "{4629, 0}";
+			sepNavVisRange = "{3156, 1609}";
+			sepNavWindowFrame = "{{15, 59}, {750, 719}}";
+		};
+	};
+	6D9F254B147F6B5900D784DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D9F254C147F6B5900D784DF /* UINavigationController.h */;
+		name = "UINavigationController.h: 72";
+		rLen = 0;
+		rLoc = 2780;
+		rType = 0;
+		vrLen = 3322;
+		vrLoc = 2117;
+	};
+	6D9F254C147F6B5900D784DF /* UINavigationController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UINavigationController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h;
+		sourceTree = "<absolute>";
+	};
+	6D9F2617147F83FB00D784DF /* loginButtonBackgroundImage.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 59}, {750, 719}}";
+		};
+	};
+	6D9F26E8147FA0BC00D784DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D9F26E9147FA0BC00D784DF /* NSPathUtilities.h */;
+		name = "NSPathUtilities.h: 65";
+		rLen = 69;
+		rLoc = 2573;
+		rType = 0;
+		vrLen = 3326;
+		vrLoc = 1460;
+	};
+	6D9F26E9147FA0BC00D784DF /* NSPathUtilities.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSPathUtilities.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPathUtilities.h;
+		sourceTree = "<absolute>";
+	};
+	6D9F28C9147FC47A00D784DF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			WebserviceURL,
+		);
+		name = /users/nagrajgopalakrishnan/Desktop/niranjan/driverApp_Niranjan/data.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	6D9F2928147FD0C000D784DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* driverApp_Prefix.pch */;
+		name = "driverApp_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	6DA20F8316391B7B006C333D /* LoginPage.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = LoginPage.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/25 Oct/Virender/driverApp/Classes/LoginPage.m";
+		sourceTree = "<absolute>";
+	};
+	6DA20F8516391B7B006C333D /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/25 Oct/Virender/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6DA20F8A16391B7B006C333D /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/25 Oct/Virender/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6DA20F9D16391D33006C333D /* WebServiceHelper.m:24 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6DB257E8147BCF5800E1FE66 /* WebServiceHelper.m */;
+		functionName = "-callWebService:pms:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 24;
+		location = driverApp;
+		modificationTime = 373309782.615794;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6DA20FA316391D50006C333D /* WebServiceHelper.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = WebServiceHelper.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/25 Oct/Virender/driverApp/Classes/WebServiceHelper.m";
+		sourceTree = "<absolute>";
+	};
+	6DA20FFB16392485006C333D /* ScheduleTravelDetails.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleTravelDetails.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/25 Oct/Virender/driverApp/Classes/ScheduleTravelDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6DA36A4F1627038200A24DCE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DD9291816255B7A00A58278 /* LoginPage.m */;
+		name = "LoginPage.m: 162";
+		rLen = 0;
+		rLoc = 5606;
+		rType = 0;
+		vrLen = 1544;
+		vrLoc = 2167;
+	};
+	6DAC398D1601DB08003CDA91 /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/13 Sept/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6DAC39971601DB4B003CDA91 /* ScheduleTravelDetails.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleTravelDetails.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/13 Sept/driverApp/Classes/ScheduleTravelDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6DAC3A5E1602189C003CDA91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D807EC715D2757500F1487C /* TableViewCell.h */;
+		name = "TableViewCell.h: 22";
+		rLen = 0;
+		rLoc = 558;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	6DAC3A5F1602189C003CDA91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D807EC815D2757500F1487C /* TableViewCell.m */;
+		name = "TableViewCell.m: 15";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 837;
+		vrLoc = 0;
+	};
+	6DAC3B271602322E003CDA91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DDA7AA615C7A869007BF1D1 /* JourneyDateWise.m */;
+		name = "JourneyDateWise.m: 21";
+		rLen = 0;
+		rLoc = 323;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 0;
+	};
+	6DAC3B3E160232DC003CDA91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DAC3B3F160232DC003CDA91 /* WebServiceHelper.m */;
+		name = "WebServiceHelper.m: 37";
+		rLen = 0;
+		rLoc = 1053;
+		rType = 0;
+		vrLen = 1305;
+		vrLoc = 0;
+	};
+	6DAC3B3F160232DC003CDA91 /* WebServiceHelper.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = WebServiceHelper.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/13 Sept/driverApp/Classes/WebServiceHelper.m";
+		sourceTree = "<absolute>";
+	};
+	6DAC3B40160232DC003CDA91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DAC3B41160232DC003CDA91 /* JSONParser.m */;
+		rLen = 0;
+		rLoc = 120;
+		rType = 1;
+	};
+	6DAC3B41160232DC003CDA91 /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/13 Sept/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6DAC3CB016024A05003CDA91 /* NextPickUpDetails.m:218 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807ED215D275C200F1487C /* NextPickUpDetails.m */;
+		functionName = "-directionsToDropOff:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 218;
+		location = driverApp;
+		modificationTime = 373309450.515735;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6DAC3CBF16024B8E003CDA91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DAC39971601DB4B003CDA91 /* ScheduleTravelDetails.m */;
+		rLen = 0;
+		rLoc = 489;
+		rType = 1;
+	};
+	6DAC3D9C16025A6A003CDA91 /* LoginPage.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = LoginPage.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/13 Sept/driverApp/Classes/LoginPage.m";
+		sourceTree = "<absolute>";
+	};
+	6DAC3DAD16025AC8003CDA91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DAC3D9C16025A6A003CDA91 /* LoginPage.m */;
+		rLen = 0;
+		rLoc = 248;
+		rType = 1;
+	};
+	6DAC3DB416025AE6003CDA91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DAC398D1601DB08003CDA91 /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 247;
+		rType = 1;
+	};
+	6DACE16015F7B77B0048EF1F /* CoreLocation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 591}}";
+			sepNavSelRange = "{280, 48}";
+			sepNavVisRange = "{0, 862}";
+		};
+	};
+	6DACE16115F7B77B0048EF1F /* CoreLocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 598}}";
+			sepNavSelRange = "{625, 0}";
+			sepNavVisRange = "{0, 897}";
+		};
+	};
+	6DAD525A14D1462700A49AB7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6D9F2617147F83FB00D784DF /* loginButtonBackgroundImage.png */;
+	};
+	6DAD525B14D1462700A49AB7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6D9F25FA147F7FF800D784DF /* logoAndText.png */;
+	};
+	6DAD525C14D1462700A49AB7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6D9F2566147F73F500D784DF /* NavigationBarImage.png */;
+	};
+	6DAD526B14D146C900A49AB7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6D9DD74A147D2577005FED5E /* icon.png */;
+	};
+	6DAD611E148F5094002BB908 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03BF2F1470ECA0005CCFFE /* SBJsonWriter.m */;
+		name = "SBJsonWriter.m: 20";
+		rLen = 0;
+		rLoc = 928;
+		rType = 0;
+		vrLen = 1905;
+		vrLoc = 0;
+	};
+	6DAEBB161614547A009889B5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6DCA8BA614C9880900436527 /* light-bg_wo-black.png */;
+	};
+	6DAEC86714862BE400A322A0 /* DropComplete.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = DropComplete.h;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Nov/driverApp_Niranjan/DropComplete.h";
+		sourceTree = "<absolute>";
+	};
+	6DAEC88014862F5B00A322A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DAEC86714862BE400A322A0 /* DropComplete.h */;
+		name = "DropComplete.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 641;
+		vrLoc = 0;
+	};
+	6DAF0B8C16274FC000A9BC1A /* ScheduleTravelDetails.m:323 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBD15D2752700F1487C /* ScheduleTravelDetails.m */;
+		functionName = "-actionSheet:clickedButtonAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 323;
+		location = driverApp;
+		modificationTime = 373309450.515783;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6DB2573A147BB85A00E1FE66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DB2573B147BB85A00E1FE66 /* UIBarButtonItem.h */;
+		name = "UIBarButtonItem.h: 79";
+		rLen = 106;
+		rLoc = 2322;
+		rType = 0;
+		vrLen = 1641;
+		vrLoc = 1380;
+	};
+	6DB2573B147BB85A00E1FE66 /* UIBarButtonItem.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIBarButtonItem.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBarButtonItem.h;
+		sourceTree = "<absolute>";
+	};
+	6DB257E7147BCF5800E1FE66 /* WebServiceHelper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 525}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{0, 604}";
+			sepNavWindowFrame = "{{15, 63}, {750, 715}}";
+		};
+	};
+	6DB257E8147BCF5800E1FE66 /* WebServiceHelper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 1053}}";
+			sepNavSelRange = "{476, 0}";
+			sepNavVisRange = "{232, 1549}";
+		};
+	};
+	6DB2586D147BE01C00E1FE66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03BF341470ECA0005CCFFE /* SBJsonBase.h */;
+		name = "SBJsonBase.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1057;
+		vrLoc = 1633;
+	};
+	6DB75C3A1623FC7600D2754C /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/9 Oct/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6DB75C4B1623FD3300D2754C /* ScheduleTravelDetails.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleTravelDetails.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/9 Oct/driverApp/Classes/ScheduleTravelDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6DB75D53162406F800D2754C /* DropComplete.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DropComplete.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/9 Oct/driverApp/Classes/DropComplete.m";
+		sourceTree = "<absolute>";
+	};
+	6DB75D60162407C300D2754C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DB75D53162406F800D2754C /* DropComplete.m */;
+		rLen = 0;
+		rLoc = 99;
+		rType = 1;
+	};
+	6DB75D7416240BD500D2754C /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/9 Oct/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6DB75E5A1624248700D2754C /* NextPickUpDetails.m:195 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807ED215D275C200F1487C /* NextPickUpDetails.m */;
+		functionName = "-callpassengerAction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 195;
+		location = driverApp;
+		modificationTime = 373309450.515747;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6DB75E65162424AE00D2754C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DB75D7416240BD500D2754C /* JSONParser.m */;
+		rLen = 0;
+		rLoc = 220;
+		rType = 1;
+	};
+	6DB75E6F1624254500D2754C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D807EB815D2752700F1487C /* DetailTableViewCell.h */;
+		name = "DetailTableViewCell.h: 19";
+		rLen = 14;
+		rLoc = 434;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 0;
+	};
+	6DB75E8D1624299500D2754C /* NextPickUpDetails.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = NextPickUpDetails.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/9 Oct/driverApp/Classes/NextPickUpDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6DB75E9616242AF800D2754C /* ScheduleTravelDetails.m:475 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBD15D2752700F1487C /* ScheduleTravelDetails.m */;
+		functionName = "-callpassengerAction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 475;
+		location = driverApp;
+		modificationTime = 373309450.515761;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6DB75EB316242C4F00D2754C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DB75E8D1624299500D2754C /* NextPickUpDetails.m */;
+		rLen = 0;
+		rLoc = 197;
+		rType = 1;
+	};
+	6DB75EB716242DCA00D2754C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D807ED215D275C200F1487C /* NextPickUpDetails.m */;
+		name = "NextPickUpDetails.m: 196";
+		rLen = 0;
+		rLoc = 6949;
+		rType = 0;
+		vrLen = 1641;
+		vrLoc = 6806;
+	};
+	6DB75F50162439D500D2754C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DB75C4B1623FD3300D2754C /* ScheduleTravelDetails.m */;
+		rLen = 0;
+		rLoc = 186;
+		rType = 1;
+	};
+	6DB75F53162439D500D2754C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DB75C3A1623FC7600D2754C /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 310;
+		rType = 1;
+	};
+	6DB8D83615EB3D3300B9E46A /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/24 August/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6DB8D85E15EB3E3500B9E46A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DD3F1301487A69A0081812D /* MBProgressHUD.h */;
+		name = "MBProgressHUD.h: 243";
+		rLen = 0;
+		rLoc = 7402;
+		rType = 0;
+		vrLen = 1742;
+		vrLoc = 6805;
+	};
+	6DB8D8B615EB41B600B9E46A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DB8D83615EB3D3300B9E46A /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 188;
+		rType = 1;
+	};
+	6DB98D44162C1016003DCA4B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* driverApp-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/users/nagrajgopalakrishnan/Desktop/BackUps/14 Oct/driverApp/driverApp-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	6DBAED301622D86E0042C4A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DBAED311622D86E0042C4A7 /* AudioToolbox.h */;
+		name = "AudioToolbox.h: 56";
+		rLen = 25;
+		rLoc = 1615;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 920;
+	};
+	6DBAED311622D86E0042C4A7 /* AudioToolbox.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AudioToolbox.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h;
+		sourceTree = "<absolute>";
+	};
+	6DBAEE701622F1D60042C4A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D807ED115D275C200F1487C /* NextPickUpDetails.h */;
+		name = "NextPickUpDetails.h: 22";
+		rLen = 14;
+		rLoc = 516;
+		rType = 0;
+		vrLen = 886;
+		vrLoc = 0;
+	};
+	6DBAEEA71622F62C0042C4A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D807EB915D2752700F1487C /* DetailTableViewCell.m */;
+		name = "DetailTableViewCell.m: 38";
+		rLen = 0;
+		rLoc = 890;
+		rType = 0;
+		vrLen = 1013;
+		vrLoc = 0;
+	};
+	6DBE1AF114D6CEE000F5E1FA /* LoginPage.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {948, 650}}";
+			sepNavSelRange = "{435, 0}";
+			sepNavVisRange = "{33, 1440}";
+		};
+	};
+	6DBE1AF214D6CEE000F5E1FA /* LoginPage.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1664, 4628}}";
+			sepNavSelRange = "{8994, 0}";
+			sepNavVisRange = "{8116, 1666}";
+		};
+	};
+	6DBF1237149A056E004E804E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DE8522A14754BC6001144A8 /* DetailTableViewCell.m */;
+		name = "DetailTableViewCell.m: 24";
+		rLen = 0;
+		rLoc = 606;
+		rType = 0;
+		vrLen = 886;
+		vrLoc = 0;
+	};
+	6DC026B315CA9E920047BC2F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DE293A515CA77F500FEEAB7 /* NextPickUpDetails.m */;
+		name = "NextPickUpDetails.m: 29";
+		rLen = 0;
+		rLoc = 803;
+		rType = 0;
+		vrLen = 1771;
+		vrLoc = 3;
+	};
+	6DC026B415CA9E920047BC2F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* driverAppAppDelegate.h */;
+		name = "driverAppAppDelegate.h: 20";
+		rLen = 6;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 0;
+	};
+	6DC0C64E14D288C8002D3B49 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	6DC8871815C671D500D1E062 /* WebServiceHelper.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = WebServiceHelper.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/3 July/driverApp/Classes/WebServiceHelper.m";
+		sourceTree = "<absolute>";
+	};
+	6DD10563163554C800F8B38E /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/22 Oct/Virender/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6DD10565163554C800F8B38E /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/22 Oct/Virender/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6DD105A91635653800F8B38E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* driverAppAppDelegate.m */;
+		name = "driverAppAppDelegate.m: 157";
+		rLen = 0;
+		rLoc = 5311;
+		rType = 0;
+		vrLen = 1718;
+		vrLoc = 4631;
+	};
+	6DD105D116356E2300F8B38E /* LoginPage.m:264 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6DBE1AF214D6CEE000F5E1FA /* LoginPage.m */;
+		functionName = "-authenticateUser";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 264;
+		location = driverApp;
+		modificationTime = 373309450.515807;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6DD105DE16356E4D00F8B38E /* LoginPage.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = LoginPage.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/22 Oct/Virender/driverApp/Classes/LoginPage.m";
+		sourceTree = "<absolute>";
+	};
+	6DD106771635779C00F8B38E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DD105DE16356E4D00F8B38E /* LoginPage.m */;
+		rLen = 0;
+		rLoc = 263;
+		rType = 1;
+	};
+	6DD106781635779C00F8B38E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DBE1AF214D6CEE000F5E1FA /* LoginPage.m */;
+		name = "LoginPage.m: 264";
+		rLen = 0;
+		rLoc = 8994;
+		rType = 0;
+		vrLen = 1666;
+		vrLoc = 8116;
+	};
+	6DD1067C1635779C00F8B38E /* ScheduleTravelDetails.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleTravelDetails.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/22 Oct/Virender/driverApp/Classes/ScheduleTravelDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6DD106851635789300F8B38E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DD1067C1635779C00F8B38E /* ScheduleTravelDetails.m */;
+		name = "ScheduleTravelDetails.m: 181";
+		rLen = 0;
+		rLoc = 6916;
+		rType = 0;
+		vrLen = 2776;
+		vrLoc = 5985;
+	};
+	6DD106861635789300F8B38E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DD106871635789300F8B38E /* DropComplete.m */;
+		rLen = 0;
+		rLoc = 80;
+		rType = 1;
+	};
+	6DD106871635789300F8B38E /* DropComplete.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DropComplete.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/22 Oct/Virender/driverApp/Classes/DropComplete.m";
+		sourceTree = "<absolute>";
+	};
+	6DD106881635789300F8B38E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D9DD63A147CFC4C005FED5E /* DropComplete.m */;
+		name = "DropComplete.m: 118";
+		rLen = 0;
+		rLoc = 4629;
+		rType = 0;
+		vrLen = 1609;
+		vrLoc = 3156;
+	};
+	6DD106891635789300F8B38E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DD10563163554C800F8B38E /* JSONParser.m */;
+		name = "JSONParser.m: 52";
+		rLen = 0;
+		rLoc = 1064;
+		rType = 0;
+		vrLen = 1665;
+		vrLoc = 492;
+	};
+	6DD1068B1635789300F8B38E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DD10565163554C800F8B38E /* ScheduleJourneydetail.m */;
+		rLen = 0;
+		rLoc = 379;
+		rType = 1;
+	};
+	6DD3EF67148772A10081812D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DFD8B0E1484F351008BC1F8 /* NSString.h */;
+		name = "NSString.h: 256";
+		rLen = 36;
+		rLoc = 15998;
+		rType = 0;
+		vrLen = 3113;
+		vrLoc = 14260;
+	};
+	6DD3F02C148793600081812D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D17810D147E835600A7E6C3 /* CGGeometry.h */;
+		name = "CGGeometry.h: 271";
+		rLen = 0;
+		rLoc = 8443;
+		rType = 0;
+		vrLen = 1117;
+		vrLoc = 7799;
+	};
+	6DD3F12E1487A6750081812D /* MBProgressHUD.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 10010}}";
+			sepNavSelRange = "{15411, 0}";
+			sepNavVisRange = "{14673, 1302}";
+		};
+	};
+	6DD3F1301487A69A0081812D /* MBProgressHUD.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 4563}}";
+			sepNavSelRange = "{7402, 0}";
+			sepNavVisRange = "{6805, 1742}";
+		};
+	};
+	6DD7ED9315E660FC00EB82A9 /* ScheduleTravelDetails.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleTravelDetails.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/16 Aug/driverApp/Classes/ScheduleTravelDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6DD8D77115B9861800185E43 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DC8871815C671D500D1E062 /* WebServiceHelper.m */;
+		name = "WebServiceHelper.m: 24";
+		rLen = 0;
+		rLoc = 476;
+		rType = 0;
+		vrLen = 1305;
+		vrLoc = 0;
+	};
+	6DD928CE16254FB900A58278 /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/10 Oct/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6DD9291816255B7A00A58278 /* LoginPage.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = LoginPage.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/10 Oct/driverApp/Classes/LoginPage.m";
+		sourceTree = "<absolute>";
+	};
+	6DD929571625665400A58278 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DD3F12E1487A6750081812D /* MBProgressHUD.m */;
+		name = "MBProgressHUD.m: 515";
+		rLen = 0;
+		rLoc = 15411;
+		rType = 0;
+		vrLen = 1302;
+		vrLoc = 14673;
+	};
+	6DD9299E1625744900A58278 /* ScheduleJourneydetail.m:886 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D807EBB15D2752700F1487C /* ScheduleJourneydetail.m */;
+		functionName = "-showNetwokAlert";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 886;
+		location = driverApp;
+		modificationTime = 373309450.515774;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6DD929DA1625832400A58278 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D1C75E415F9E0D900FA69DB /* CLLocationManager.h */;
+		name = "CLLocationManager.h: 230";
+		rLen = 31;
+		rLoc = 7847;
+		rType = 0;
+		vrLen = 1147;
+		vrLoc = 7210;
+	};
+	6DD92A3C1625A19F00A58278 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D1134C614839DC100CF954D /* HomePage.m */;
+		name = "HomePage.m: 70";
+		rLen = 22;
+		rLoc = 2141;
+		rType = 0;
+		vrLen = 1847;
+		vrLoc = 1183;
+	};
+	6DD92AAA1625AB8A00A58278 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E572852147ECF0C00A8A1D4 /* Common.h */;
+		name = "Common.h: 37";
+		rLen = 0;
+		rLoc = 976;
+		rType = 0;
+		vrLen = 983;
+		vrLoc = 0;
+	};
+	6DDA79DE15C7A869007BF1D1 /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/23 July/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6DDA7A0715C7A869007BF1D1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 6DDA7A0215C7A869007BF1D1 /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/users/nagrajgopalakrishnan/Desktop/BackUps/23 July/driverApp/Entitlements.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	6DDA7A3515C7A869007BF1D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D03BF351470ECA0005CCFFE /* NSString+SBJSON.m */;
+		name = "NSString+SBJSON.m: 35";
+		rLen = 16;
+		rLoc = 1618;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	6DDA7AA515C7A869007BF1D1 /* JourneyDateWise.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 591}}";
+			sepNavSelRange = "{404, 4}";
+			sepNavVisRange = "{0, 415}";
+		};
+	};
+	6DDA7AA615C7A869007BF1D1 /* JourneyDateWise.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 614}}";
+			sepNavSelRange = "{323, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	6DDA7BF515C7A869007BF1D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D8715381473A0590070E42A /* ScheduleJourneydetail.h */;
+		name = "ScheduleJourneydetail.h: 34";
+		rLen = 12;
+		rLoc = 876;
+		rType = 0;
+		vrLen = 1643;
+		vrLoc = 146;
+	};
+	6DDD6797147CC86600399E78 /* CompletedTravel.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CompletedTravel.m;
+		path = "/users/nagrajgopalakrishnan/Desktop/BackUps/26 Mar/driverApp/Classes/CompletedTravel.m";
+		sourceTree = "<absolute>";
+	};
+	6DDD67AE147CCD4A00399E78 /* CompletedTravelDetails.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CompletedTravelDetails.m;
+		path = "/users/nagrajgopalakrishnan/Desktop/BackUps/26 Mar/driverApp/Classes/CompletedTravelDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6DDD67B5147CCD7600399E78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	6DE293A415CA77F500FEEAB7 /* NextPickUpDetails.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = NextPickUpDetails.h;
+		path = "/users/nagrajgopalakrishnan/Desktop/BackUps/2 Aug/driverApp/Classes/NextPickUpDetails.h";
+		sourceTree = "<absolute>";
+	};
+	6DE293A515CA77F500FEEAB7 /* NextPickUpDetails.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = NextPickUpDetails.m;
+		path = "/users/nagrajgopalakrishnan/Desktop/BackUps/2 Aug/driverApp/Classes/NextPickUpDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6DE293B915CA7DFD00FEEAB7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DE85219147546B5001144A8 /* ScheduleTravelDetails.h */;
+		name = "ScheduleTravelDetails.h: 36";
+		rLen = 65;
+		rLoc = 1288;
+		rType = 0;
+		vrLen = 1549;
+		vrLoc = 0;
+	};
+	6DE293BC15CA7DFD00FEEAB7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6D8715391473A0590070E42A /* ScheduleJourneydetail.m */;
+		name = "ScheduleJourneydetail.m: 482";
+		rLen = 0;
+		rLoc = 16361;
+		rType = 0;
+		vrLen = 1946;
+		vrLoc = 15434;
+	};
+	6DE293CE15CA7FA400FEEAB7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DE293A415CA77F500FEEAB7 /* NextPickUpDetails.h */;
+		name = "NextPickUpDetails.h: 19";
+		rLen = 0;
+		rLoc = 509;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 0;
+	};
+	6DE2943915CA836A00FEEAB7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DE2943A15CA836A00FEEAB7 /* NextPickUpDetails.m */;
+		rLen = 0;
+		rLoc = 43;
+		rType = 1;
+	};
+	6DE2943A15CA836A00FEEAB7 /* NextPickUpDetails.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = NextPickUpDetails.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/2 Aug/driverApp/Classes/NextPickUpDetails.m";
+		sourceTree = "<absolute>";
+	};
+	6DE85219147546B5001144A8 /* ScheduleTravelDetails.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ScheduleTravelDetails.h;
+		path = "/users/nagrajgopalakrishnan/Desktop/BackUps/2 Aug/driverApp/Classes/ScheduleTravelDetails.h";
+		sourceTree = "<absolute>";
+	};
+	6DE8522A14754BC6001144A8 /* DetailTableViewCell.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DetailTableViewCell.m;
+		path = "/users/nagrajgopalakrishnan/Desktop/BackUps/2 Aug/driverApp/Classes/DetailTableViewCell.m";
+		sourceTree = "<absolute>";
+	};
+	6DEE16911472B72100A461D7 /* ScheduledJourneyDetails.m:23 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6D873F9E14723529002DA626 /* ScheduledJourneyDetails.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 23;
+		modificationTime = 373309849.03349;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6DEF96B9161C0F270031F957 /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/3 Oct/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6DEF96D2161C104E0031F957 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DEF96B9161C0F270031F957 /* JSONParser.m */;
+		rLen = 0;
+		rLoc = 222;
+		rType = 1;
+	};
+	6DEF9920161C816B0031F957 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6DCA868114C9377700436527 /* BlueBackGround.jpg */;
+	};
+	6DEF9921161C816B0031F957 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6D755CBB16030A1000E17B20 /* background.png */;
+	};
+	6DEFBB4714C833C10072C22B /* driverApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = driverApp;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	6DEFBC2A14C844A00072C22B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DEFBC2B14C844A00072C22B /* UINavigationBar.h */;
+		name = "UINavigationBar.h: 97";
+		rLen = 19;
+		rLoc = 3775;
+		rType = 0;
+		vrLen = 1646;
+		vrLoc = 2348;
+	};
+	6DEFBC2B14C844A00072C22B /* UINavigationBar.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UINavigationBar.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationBar.h;
+		sourceTree = "<absolute>";
+	};
+	6DF96364162AB8060086EFFA /* JSONParser.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = JSONParser.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/14 Oct/driverApp/Classes/JSONParser.m";
+		sourceTree = "<absolute>";
+	};
+	6DF96370162AB8F90086EFFA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E26D43E147C38A800D6B86E /* JSONParser.h */;
+		name = "JSONParser.h: 19";
+		rLen = 4;
+		rLoc = 454;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	6DF9637D162ABA600086EFFA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E572851147ECF0C00A8A1D4 /* Common.m */;
+		name = "Common.m: 205";
+		rLen = 0;
+		rLoc = 4474;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 0;
+	};
+	6DF9639B162ABB420086EFFA /* ScheduleJourneydetail.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ScheduleJourneydetail.m;
+		path = "/Users/nagrajgopalakrishnan/Desktop/BackUps/14 Oct/driverApp/Classes/ScheduleJourneydetail.m";
+		sourceTree = "<absolute>";
+	};
+	6DFD8A0C1484DD2F008BC1F8 /* CompletedTravel.m:32 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6DDD6797147CC86600399E78 /* CompletedTravel.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 32;
+		modificationTime = 373309849.033671;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6DFD8B0E1484F351008BC1F8 /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	6DFD8B2A1484F61D008BC1F8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6DFD8B2B1484F61D008BC1F8 /* NSLocale.h */;
+		name = "NSLocale.h: 14";
+		rLen = 8;
+		rLoc = 378;
+		rType = 0;
+		vrLen = 904;
+		vrLoc = 0;
+	};
+	6DFD8B2B1484F61D008BC1F8 /* NSLocale.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSLocale.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSLocale.h;
+		sourceTree = "<absolute>";
+	};
+	8D1107310486CEB800E47090 /* driverApp-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 63}, {750, 715}}";
+		};
+	};
+}

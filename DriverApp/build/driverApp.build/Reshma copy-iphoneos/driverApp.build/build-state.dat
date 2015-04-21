@@ -1,0 +1,1434 @@
+TdriverApp
+v7
+r3
+t373361917.319628
+cCheck dependencies
+cCpResource "build/Reshma copy-iphoneos/driverApp.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/Info.plist" driverApp-Info.plist
+cCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/MainWindow.xib"
+cCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/TableViewCell.xib"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC10EB60000000000000A23
+t1287720630
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC10D700000000000000AB3
+t1287720304
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC11B5300000000000D96F0
+t1287723859
+s890608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC11B4300000000000001D0
+t1287723843
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC11D62000000000029CFA0
+t1287724386
+s2740128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC10E6A0000000000001A58
+t1287720554
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E4790000000000001533
+t1286857849
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4840000000000000782
+t1286857860
+s1922
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netdb.h
+c000000004CB3E4A0000000000000307F
+t1286857888
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACDD0000000000005462
+t1287630045
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACCD0000000000004F61
+t1287630029
+s20321
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACD80000000000005A69
+t1287630040
+s23145
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/ActionSheetIcon2.png
+c000000004F1D07DB0000000000000968
+t1327302619
+s2408
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/BlueBackGround.jpg
+c000000004F18FE6D000000000000BB4A
+t1327038061
+s47946
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ALToastView.h
+c000000004E6E780A0000000000000565
+t1315862538
+s1381
+i<Foundation/Foundation.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ALToastView.m
+c000000005090253D0000000000001574
+t1351623997
+s5492
+i<QuartzCore/QuartzCore.h>
+i"ALToastView.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/AllocatedJourney.h
+c00000000508F7DBB000000000000065A
+t1351581115
+s1626
+i<Foundation/Foundation.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/AllocatedJourney.m
+c00000000508F7DBA0000000000000307
+t1351581114
+s775
+i"AllocatedJourney.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Common.h
+c0000000050728AC500000000000003D7
+t1349683909
+s983
+i<Foundation/Foundation.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Common.m
+c0000000050766C4F00000000000014A2
+t1349938255
+s5282
+i"Common.h"
+i"Reachability.h"
+i<SystemConfiguration/SystemConfiguration.h>
+i<netinet/in.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/CoreLocation.h
+c0000000050499960000000000000035E
+t1347000672
+s862
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/CoreLocation.m
+c00000000504999650000000000000381
+t1347000677
+s897
+i"CoreLocation.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DetailTableViewCell.h
+c000000005072BD5B00000000000003CA
+t1349696859
+s970
+i<UIKit/UIKit.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DetailTableViewCell.m
+c000000005064078400000000000003FA
+t1348732804
+s1018
+i"DetailTableViewCell.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DetailTableViewCell.xib
+c000000005073ED67000000000000B230
+t1349774695
+s45616
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DropComplete.h
+c000000005073C2CB000000000000036A
+t1349763787
+s874
+i<UIKit/UIKit.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DropComplete.m
+c00000000508540B60000000000001624
+t1350910134
+s5668
+i"DropComplete.h"
+i"WebServiceHelper.h"
+i"Common.h"
+i"ScheduleJourneydetail.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DropComplete.xib
+c000000004F1950A10000000000006A33
+t1327059105
+s27187
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/HomePage.h
+c000000004F71778E000000000000037F
+t1332836238
+s895
+i<UIKit/UIKit.h>
+i"MBProgressHUD.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/HomePage.m
+c000000004F71769F00000000000025DC
+t1332835999
+s9692
+i"HomePage.h"
+i"TableViewCell.h"
+i"JSON.h"
+i"ScheduleJourneydetail.h"
+i"WebServiceHelper.h"
+i"AllocatedJourney.h"
+i"Common.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/JSONParser.h
+c000000004F3CB12E0000000000000266
+t1329377582
+s614
+i<Foundation/Foundation.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/JSONParser.m
+c00000000508FCD9D0000000000004060
+t1351601565
+s16480
+i"JSONParser.h"
+i"JSON.h"
+i"AllocatedJourney.h"
+i"Journey.h"
+i"Common.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Journey.h
+c00000000508E20F4000000000000048D
+t1351491828
+s1165
+i<Foundation/Foundation.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Journey.m
+c00000000508E20E9000000000000027A
+t1351491817
+s634
+i"Journey.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/JourneyDateWise.h
+c00000000501250BA000000000000019F
+t1343377594
+s415
+i<Foundation/Foundation.h>
+i"AllocatedJourney.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/JourneyDateWise.m
+c00000000501250BA0000000000000144
+t1343377594
+s324
+i"JourneyDateWise.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/LoginPage.h
+c000000005049B0DC00000000000005C1
+t1347006684
+s1473
+i<UIKit/UIKit.h>
+i"MBProgressHUD.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/LoginPage.m
+c00000000508536CA0000000000002CF9
+t1350907594
+s11513
+i"LoginPage.h"
+i"ALToastView.h"
+i"WebServiceHelper.h"
+i"Common.h"
+i"ScheduleJourneydetail.h"
+i"driverAppAppDelegate.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/LoginPage.xib
+c000000004F4DE271000000000000880F
+t1330504305
+s34831
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/MBProgressHUD.h
+c000000004ED770FD0000000000002954
+t1322742013
+s10580
+i<UIKit/UIKit.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/MBProgressHUD.m
+c000000004ED7763200000000000059C4
+t1322743346
+s22980
+i"MBProgressHUD.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/NextPickUpDetails.h
+c000000005072B8CD0000000000000376
+t1349695693
+s886
+i<UIKit/UIKit.h>
+i"AllocatedJourney.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/NextPickUpDetails.m
+c000000005073F3FB00000000000022EE
+t1349776379
+s8942
+i"NextPickUpDetails.h"
+i"DetailTableViewCell.h"
+i"Journey.h"
+i"Common.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/NextPickUpDetails.xib
+c00000000506404B1000000000000594C
+t1348732081
+s22860
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Reachability.h
+c000000004D4C15700000000000000F1B
+t1296831856
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Reachability.m
+c000000004D4C158F000000000000239B
+t1296831887
+s9115
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleJourneydetail.h
+c00000000508FBE830000000000000F18
+t1351597699
+s3864
+i<UIKit/UIKit.h>
+i"MBProgressHUD.h"
+i"CoreLocation.h"
+i"AllocatedJourney.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleJourneydetail.m
+c0000000050902212000000000000A91B
+t1351623186
+s43291
+i"ScheduleJourneydetail.h"
+i"JSON.h"
+i"TableViewCell.h"
+i"ScheduleTravelDetails.h"
+i"AllocatedJourney.h"
+i"Journey.h"
+i"Common.h"
+i"WebServiceHelper.h"
+i"MBProgressHUD.h"
+i"driverAppAppDelegate.h"
+i"LoginPage.h"
+i"CoreLocation.h"
+i"ALToastView.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleJourneydetail.xib
+c0000000050643C0A000000000000682C
+t1348746250
+s26668
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleTravelDetails.h
+c000000005088F25C000000000000093A
+t1351152220
+s2362
+i<UIKit/UIKit.h>
+i"AllocatedJourney.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleTravelDetails.m
+c00000000508FCA9D000000000000545D
+t1351600797
+s21597
+i"ScheduleTravelDetails.h"
+i"DetailTableViewCell.h"
+i"Journey.h"
+i"DropComplete.h"
+i"Common.h"
+i"WebServiceHelper.h"
+i"NextPickUpDetails.h"
+i"ALToastView.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleTravelDetails.xib
+c00000000506406690000000000007906
+t1348732521
+s30982
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/TableViewCell.h
+c000000005051DE03000000000000023B
+t1347542531
+s571
+i<UIKit/UIKit.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/TableViewCell.m
+c000000005051DE040000000000000345
+t1347542532
+s837
+i"TableViewCell.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/WebServiceHelper.h
+c000000004F3BAD9F000000000000025C
+t1329311135
+s604
+i<Foundation/Foundation.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/WebServiceHelper.m
+c00000000508104810000000000000925
+t1350632577
+s2341
+i"WebServiceHelper.h"
+i"JSONParser.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/driverAppAppDelegate.h
+c000000004F71765400000000000002BE
+t1332835924
+s702
+i<UIKit/UIKit.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/driverAppAppDelegate.m
+c00000000508526A90000000000001C4C
+t1350903465
+s7244
+i"driverAppAppDelegate.h"
+i"Reachability.h"
+i"json.h"
+i"HomePage.h"
+i<SystemConfiguration/SystemConfiguration.h>
+i<netinet/in.h>
+i"Common.h"
+i"WebServiceHelper.h"
+i"ScheduleJourneydetail.h"
+i"LoginPage.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Default.png
+c000000004F1902930000000000012FD9
+t1327039123
+s77785
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/DetailtableViewCellBackground.png
+c000000004ED35E3400000000000008EC
+t1322475060
+s2284
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Entitlements.plist
+c0000000050122CF70000000000000221
+t1343368439
+s545
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/HomePage.xib
+c000000004F1950D30000000000004FE2
+t1327059155
+s20450
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/JSON.h
+c000000004C9CC2D60000000000000AC5
+t1285341910
+s2757
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/MainWindow.xib
+c00000000506C326A0000000000005252
+t1349268074
+s21074
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/NSObject+SBJSON.h
+c000000004C9CC2D6000000000000085F
+t1285341910
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/NSObject+SBJSON.m
+c000000004C9CC2D6000000000000077D
+t1285341910
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/NSString+SBJSON.h
+c000000004C9CC2D600000000000007F0
+t1285341910
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/NSString+SBJSON.m
+c000000004C9CC2D6000000000000075D
+t1285341910
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/NavigationBarImage.png
+c000000004ECF3BC800000000000004BE
+t1322204104
+s1214
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonBase.h
+c000000004C9CC2D60000000000000B82
+t1285341910
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonBase.m
+c000000004C9CC2D60000000000000AC1
+t1285341910
+s2753
+i"SBJsonBase.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonParser.h
+c000000004C9CC2D60000000000000C8F
+t1285341910
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonParser.m
+c000000004C9CC2D60000000000003B7A
+t1285341910
+s15226
+i"SBJsonParser.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonWriter.h
+c000000004C9CC2D600000000000011D9
+t1285341910
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonWriter.m
+c000000004C9CC2D6000000000000206D
+t1285341910
+s8301
+i"SBJsonWriter.h"
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/TableViewCell.xib
+c000000005072C6C1000000000000713D
+t1349699265
+s28989
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/TravelDetails.png
+c00000000501A31180000000000000421
+t1343893784
+s1057
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/background.png
+c000000005052D2520000000000008B6E
+t1347605074
+s35694
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/bar.png
+c000000005052D5A9000000000000123F
+t1347605929
+s4671
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/beep.caf
+c000000005072A7B50000000000011264
+t1349691317
+s70244
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/blue-bar.png
+c00000000501A38B600000000000001F7
+t1343895734
+s503
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app
+t1351668399
+s170
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app.dSYM
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/ActionSheetIcon2.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/BlueBackGround.jpg
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/Default.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/DetailTableViewCell.nib
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/DetailtableViewCellBackground.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/DropComplete.nib
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/HomePage.nib
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/Info.plist
+t1351668399
+s820
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/LoginPage.nib
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/MainWindow.nib
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/NavigationBarImage.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/NextPickUpDetails.nib
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/PkgInfo
+t1351668399
+s8
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/ResourceRules.plist
+t1351668399
+s485
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/ScheduleJourneydetail.nib
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/ScheduleTravelDetails.nib
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/TableViewCell.nib
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/TravelDetails.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/background.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/bar.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/beep.caf
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/blue-bar.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/complete2-01.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/country-details.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/driverApp
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/dropoff.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/fare-image.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/folder.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/icon.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/light-bg_wo-black.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/loginButtonBackgroundImage.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/logoAndText.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/lowerbar.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/new_logo.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/pickup.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/selected-bar.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/tableViewCellBackground.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/telephone.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/telephonic.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/upperbar.png
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/ALToastView.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/AllocatedJourney.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/Common.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/CoreLocation.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/DetailTableViewCell.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/DropComplete.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/HomePage.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/JSONParser.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/Journey.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/JourneyDateWise.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/LoginPage.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/MBProgressHUD.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/NSString+SBJSON.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/NextPickUpDetails.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/Reachability.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/SBJsonBase.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/SBJsonParser.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/SBJsonWriter.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/ScheduleJourneydetail.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/ScheduleTravelDetails.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/TableViewCell.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/WebServiceHelper.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/driverApp
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/driverApp.LinkFileList
+c000000005090D2AF0000000000001037
+t1351668399
+s4151
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/driverAppAppDelegate.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/ALToastView.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/AllocatedJourney.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/Common.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/CoreLocation.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/DetailTableViewCell.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/DropComplete.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/HomePage.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/JSONParser.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/Journey.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/JourneyDateWise.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/LoginPage.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/MBProgressHUD.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/NSString+SBJSON.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/NextPickUpDetails.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/Reachability.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/SBJsonBase.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/SBJsonParser.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/SBJsonWriter.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/ScheduleJourneydetail.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/ScheduleTravelDetails.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/TableViewCell.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/WebServiceHelper.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/driverApp
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/driverApp.LinkFileList
+c000000005090D2AF0000000000001037
+t1351668399
+s4151
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/driverAppAppDelegate.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/driverApp.xcent
+t2
+s0
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/complete2-01.png
+c000000004F22A6FA000000000000034A
+t1327671034
+s842
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/country-details.png
+c00000000502CDA360000000000000F8C
+t1345116726
+s3980
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/driverApp_Prefix.pch
+c000000004EC0B41D00000000000000BB
+t1321251869
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/dropoff.png
+c000000005052C8470000000000000C6A
+t1347602503
+s3178
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/fare-image.png
+c00000000501A34C8000000000000015E
+t1343894728
+s350
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/folder.png
+c000000004EEDC3D2000000000000044A
+t1324205010
+s1098
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/icon.png
+c000000004ECCED680000000000001353
+t1322052968
+s4947
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/light-bg_wo-black.png
+c000000004F1946AB000000000001B9AE
+t1327056555
+s113070
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/loginButtonBackgroundImage.png
+c000000004ECF4C4600000000000005B4
+t1322208326
+s1460
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/logoAndText.png
+c000000004ECF46D300000000000044B0
+t1322206931
+s17584
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/lowerbar.png
+c000000005052D312000000000000149D
+t1347605266
+s5277
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/main.m
+c000000004EC0B41D000000000000016A
+t1321251869
+s362
+i<UIKit/UIKit.h>
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/new_logo.png
+c000000004EEB3548000000000000708D
+t1324037448
+s28813
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/pickup.png
+c000000005052C78F0000000000000C97
+t1347602319
+s3223
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/selected-bar.png
+c00000000501A38DC0000000000000306
+t1343895772
+s774
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/tableViewCellBackground.png
+c000000005052D25200000000000001DA
+t1347605074
+s474
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/telephone.png
+c000000005059A3BC0000000000000521
+t1348051900
+s1313
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/telephonic.png
+c000000005052D86100000000000001D1
+t1347606625
+s465
+
+N/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/upperbar.png
+c000000005052D312000000000000140F
+t1347605266
+s5135
+
+N/Users/nagrajgopalakrishnan/Library/MobileDevice/Provisioning Profiles/120247DA-942D-4B55-8455-65E9CB18222D.mobileprovision
+c000000005076B2C50000000000001DD0
+t1349956293
+s7632
+
+N/var/folders/vm/3kd2jr8x3bq2z6l_ndxf0m9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/driverApp_Prefix-cwmnwlqmaesixvdvstlftbgqnelo/driverApp_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/vm/3kd2jr8x3bq2z6l_ndxf0m9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/driverApp_Prefix-fioassqbihjhhwgkrhntdkklzpqa/driverApp_Prefix.pch.gch
+t2
+s0
+
+NdriverApp-Info.plist
+c0000000050223FB30000000000000392
+t1344421811
+s914
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies373361713#373361714#0(0"0(0#1#0"17207939584#0"0#
+
+CCodeSign "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app"
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/ALToastView.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ALToastView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/AllocatedJourney.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/AllocatedJourney.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/Common.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Common.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/CoreLocation.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/CoreLocation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/DetailTableViewCell.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DetailTableViewCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/DropComplete.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DropComplete.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/HomePage.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/HomePage.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/JSONParser.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/JSONParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/Journey.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Journey.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/JourneyDateWise.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/JourneyDateWise.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/LoginPage.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/LoginPage.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/MBProgressHUD.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/MBProgressHUD.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/NSObject+SBJSON.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/NSObject+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/NSString+SBJSON.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/NSString+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/NextPickUpDetails.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/NextPickUpDetails.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/Reachability.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Reachability.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/SBJsonBase.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonBase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/SBJsonParser.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/SBJsonWriter.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/ScheduleJourneydetail.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleJourneydetail.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/ScheduleTravelDetails.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleTravelDetails.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/TableViewCell.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/TableViewCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/WebServiceHelper.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/WebServiceHelper.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/driverAppAppDelegate.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/driverAppAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/main.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/ALToastView.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ALToastView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/AllocatedJourney.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/AllocatedJourney.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/Common.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Common.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/CoreLocation.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/CoreLocation.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/DetailTableViewCell.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DetailTableViewCell.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/DropComplete.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DropComplete.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/HomePage.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/HomePage.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/JSONParser.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/JSONParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/Journey.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Journey.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/JourneyDateWise.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/JourneyDateWise.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/LoginPage.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/LoginPage.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/MBProgressHUD.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/MBProgressHUD.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/NSObject+SBJSON.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/NSObject+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/NSString+SBJSON.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/NSString+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/NextPickUpDetails.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/NextPickUpDetails.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/Reachability.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/Reachability.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/SBJsonBase.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonBase.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/SBJsonParser.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/SBJsonWriter.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/ScheduleJourneydetail.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleJourneydetail.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/ScheduleTravelDetails.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleTravelDetails.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/TableViewCell.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/TableViewCell.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/WebServiceHelper.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/WebServiceHelper.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/driverAppAppDelegate.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/driverAppAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/main.o" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DetailTableViewCell.xib"
+r0
+
+CCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/DropComplete.xib"
+r0
+
+CCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/LoginPage.xib"
+r0
+
+CCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/NextPickUpDetails.xib"
+r0
+
+CCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleJourneydetail.xib"
+r0
+
+CCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Classes/ScheduleTravelDetails.xib"
+r0
+
+CCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/HomePage.xib"
+r0
+
+CCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/MainWindow.xib"
+s373361714.066793
+e373361917.218254
+r0
+xCompileXIB
+x/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/MainWindow.xib
+o2012-10-31 13:05:14.428 ibtool[1629:f07] -[__NSSetM unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+lSLF07#2@25"CompileXIB MainWindow.xib373361714#373361917#0(183"2012-10-31 13:05:14.428 ibtool[1629:f07] -[__NSSetM unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  0(0#0#84"/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/MainWindow.xib17207983360#649"    cd "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/MainWindow.nib" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk2#
+
+CCompileXIB "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/TableViewCell.xib"
+s373361714.070196
+e373361917.319583
+r0
+xCompileXIB
+x/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/TableViewCell.xib
+lSLF07#2@28"CompileXIB TableViewCell.xib373361714#373361917#0(0"0(0#0#87"/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/TableViewCell.xib4320133120#655"    cd "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/TableViewCell.nib" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/TableViewCell.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk2#
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/ActionSheetIcon2.png" ActionSheetIcon2.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/DetailtableViewCellBackground.png" DetailtableViewCellBackground.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/NavigationBarImage.png" NavigationBarImage.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/TravelDetails.png" TravelDetails.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/background.png" background.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/bar.png" bar.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/blue-bar.png" blue-bar.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/complete2-01.png" complete2-01.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/country-details.png" country-details.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/dropoff.png" dropoff.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/fare-image.png" fare-image.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/folder.png" folder.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/light-bg_wo-black.png" light-bg_wo-black.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/loginButtonBackgroundImage.png" loginButtonBackgroundImage.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/logoAndText.png" logoAndText.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/lowerbar.png" lowerbar.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/new_logo.png" new_logo.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/pickup.png" pickup.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/selected-bar.png" selected-bar.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/tableViewCellBackground.png" tableViewCellBackground.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/telephone.png" telephone.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/telephonic.png" telephonic.png
+r0
+
+CCopyPNGFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/upperbar.png" upperbar.png
+r0
+
+CCpResource "build/Reshma copy-iphoneos/driverApp.app/BlueBackGround.jpg" BlueBackGround.jpg
+r0
+
+CCpResource "build/Reshma copy-iphoneos/driverApp.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s373361199.344068
+e373361199.432236
+r1
+xCpResource
+xbuild/Reshma copy-iphoneos/driverApp.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist373361199#373361199#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist4320133120#568"    cd "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app"0#
+
+CCpResource "build/Reshma copy-iphoneos/driverApp.app/beep.caf" beep.caf
+r0
+
+CCreateUniversalBinary "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/driverApp" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app.dSYM" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/driverApp"
+r0
+
+CLd "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv6/driverApp" normal armv6
+r0
+
+CLd "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/Objects-normal/armv7/driverApp" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/Info.plist" driverApp-Info.plist
+s373361199.345051
+e373361199.396723
+r1
+xProcessInfoPlistFile
+x/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/Info.plist
+xdriverApp-Info.plist
+lSLF07#2@28"Process driverApp-Info.plist373361199#373361199#0(0"0(0#0#90"/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/driverApp-Info.plist4320133120#720"    cd "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility driverApp-Info.plist -genpkginfo "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/ResourceRules.plist" -o "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/Info.plist"0#
+
+CProcessPCH /var/folders/vm/3kd2jr8x3bq2z6l_ndxf0m9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/driverApp_Prefix-cwmnwlqmaesixvdvstlftbgqnelo/driverApp_Prefix.pch.gch driverApp_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/vm/3kd2jr8x3bq2z6l_ndxf0m9h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/driverApp_Prefix-fioassqbihjhhwgkrhntdkklzpqa/driverApp_Prefix.pch.gch driverApp_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/Entitlements.plist" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/driverApp.build/Reshma copy-iphoneos/driverApp.build/driverApp.xcent"
+r0
+
+CProcessProductPackaging "/Users/nagrajgopalakrishnan/Library/MobileDevice/Provisioning Profiles/120247DA-942D-4B55-8455-65E9CB18222D.mobileprovision" "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app/embedded.mobileprovision"
+r0
+
+CTouch "/Users/nagrajgopalakrishnan/Desktop/BackUps/30 Oct/Virender/driverApp/build/Reshma copy-iphoneos/driverApp.app"
+r0
+
