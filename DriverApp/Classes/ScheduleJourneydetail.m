@@ -1256,7 +1256,7 @@
 					
 					NSInteger fareValue = journey.JourneyFare;
 					cell.fare.text=[NSString stringWithFormat:@"%@ %ld", journey.Currency,(long)fareValue];
-					cell.accessoryType=UITableViewCellAccessoryDetailDisclosureButton;
+					cell.accessoryType=UITableViewCellAccessoryDisclosureIndicator;
 					//[cell setAccessoryAction:@selector(referenceTime)];
 					//[cell setTarget:self];
 					
