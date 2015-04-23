@@ -31,6 +31,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
 	[self homePageLoad];
+    self.maintabBarController.tabBar.translucent = NO;
+
 	[self.window makeKeyAndVisible];
     return YES;
 	
@@ -75,9 +77,17 @@
 	UINavigationController *ScheduledJourneyNavController=[[[UINavigationController alloc] initWithRootViewController:loginPage] autorelease];
 	UINavigationController *CompletedJourneyNavController=[[[UINavigationController alloc] initWithRootViewController:CompletedJourney] autorelease];
 	
-	ScheduledJourneyNavController.navigationBar.tintColor =[UIColor colorWithRed:rd green:gr blue:bl alpha:1.0];
-	CompletedJourneyNavController.navigationBar.tintColor =[UIColor colorWithRed:rd green:gr blue:bl alpha:1.0];
-	
+	ScheduledJourneyNavController.navigationBar.barTintColor =[UIColor colorWithRed:rd green:gr blue:bl alpha:1.0];
+	CompletedJourneyNavController.navigationBar.barTintColor =[UIColor colorWithRed:rd green:gr blue:bl alpha:1.0];
+    [ScheduledJourneyNavController.navigationBar setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]}];
+    [CompletedJourneyNavController.navigationBar setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]}];
+    ScheduledJourneyNavController.navigationBar.tintColor = [UIColor whiteColor];
+    CompletedJourneyNavController.navigationBar.tintColor = [UIColor whiteColor];
+
+    maintabBarController.tabBar.barTintColor = [UIColor blackColor];
+    
+    [[UITabBar appearance] setBarTintColor:[UIColor colorWithRed:(38.0/255.0) green:(38.0/255.0) blue:(38.0/255.0) alpha:1.0]];
+
 	if([[UIApplication sharedApplication] isStatusBarHidden])
 	[maintabBarController view].frame = CGRectMake(0, 0, 320, [[UIScreen mainScreen] bounds].size.height);
 	else 
