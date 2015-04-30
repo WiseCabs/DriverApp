@@ -101,6 +101,10 @@
         self.time.frame=CGRectMake( 212, 10, 102, 27 );*/
     }
     if ([selectedJourney.JourneyStatus isEqualToString:@"On Route"] ) {
+        jnyStatusLbl.text=[NSString stringWithFormat:@"At Customer"];
+        journeyImage.image=[UIImage imageNamed:@"dropComplete.png"];
+    }
+    if ([selectedJourney.JourneyStatus isEqualToString:@"At Customer"] ) {
         jnyStatusLbl.text=[NSString stringWithFormat:@"Passenger on Board"];
         journeyImage.image=[UIImage imageNamed:@"POB.png"];
     }
@@ -201,6 +205,24 @@
         [ALToastView toastInView:self.view withText:@"Journey status updated to: On Route"];
         [Common setdropCompleteStatus:@""];
         self.onBoard=YES;
+        jnyStatusLbl.text=[NSString stringWithFormat:@"At Customer"];
+        journeyImage.image=[UIImage imageNamed:@"dropComplete.png"];
+        
+        
+    }
+    
+    else if([jnyStatusText isEqualToString:@"At Customer"]){
+        /* alreadyOnRouteActionSheet = [[UIActionSheet alloc] initWithTitle:@"Take Action" delegate:self cancelButtonTitle:nil destructiveButtonTitle:nil otherButtonTitles:nil, nil];
+         [alreadyOnRouteActionSheet addButtonWithTitle:@"Passenger on Board"];
+         [alreadyOnRouteActionSheet addButtonWithTitle:@"Cancel"];
+         alreadyOnRouteActionSheet.cancelButtonIndex = 1;
+         [alreadyOnRouteActionSheet showFromTabBar:self.tabBarController.tabBar];*/
+        
+        [self takeAction:@"atCustomer"];
+        self.onBoard=YES;
+        // [Common showAlert:@"" message:@"Journey status updated to: On Board"];
+        [ALToastView toastInView:self.view withText:@"Journey status updated to: At Customer"];
+        [Common setdropCompleteStatus:@""];
         jnyStatusLbl.text=[NSString stringWithFormat:@"Passenger on Board"];
         journeyImage.image=[UIImage imageNamed:@"POB.png"];
         
@@ -272,6 +294,12 @@
 		sdobjects = [NSArray arrayWithObjects:[NSString stringWithFormat:@"%ld",(long)[Common loggedInDriverID]],actionType,[NSString stringWithFormat:@"%ld",(long)selectedJourney.AllocatedJourneyID],[NSString stringWithFormat:@"%ld",(long)selectedJourney.suppID],destination, nil];
 
 	}
+    else if([actionType isEqualToString:@"atCustomer"]){
+        sdkeys = [NSArray arrayWithObjects:@"uid",@"type",@"aj_id",@"suppID",@"destination", nil];
+        //64-bit modification
+        sdobjects = [NSArray arrayWithObjects:[NSString stringWithFormat:@"%ld",(long)[Common loggedInDriverID]],actionType,[NSString stringWithFormat:@"%ld",(long)selectedJourney.AllocatedJourneyID],[NSString stringWithFormat:@"%ld",(long)selectedJourney.suppID],destination, nil];
+        
+    }
 	else {
         sdkeys = [NSArray arrayWithObjects:@"uid",@"type",@"aj_id",@"suppID",@"destination", nil];
         //64-bit modification
