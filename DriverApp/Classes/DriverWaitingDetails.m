@@ -247,6 +247,10 @@
     [super viewDidLoad];
     
     self.navigationController.navigationBar.translucent = NO;
+    
+    UIView *statusBarView = [[UIView alloc] initWithFrame:CGRectMake(0, -20, 320, 22)];
+    statusBarView.backgroundColor = [UIColor blackColor];
+    [self.navigationController.navigationBar addSubview:statusBarView];
 
     
     // Do any additional setup after loading the view from its nib.

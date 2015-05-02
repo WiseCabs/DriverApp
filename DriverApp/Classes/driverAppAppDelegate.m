@@ -104,11 +104,12 @@
 	NSArray *tabbarArray=[NSArray arrayWithObjects:ScheduledJourneyNavController,CompletedJourneyNavController,nil];
 	maintabBarController.viewControllers=tabbarArray;
 	
-//	[window addSubview:maintabBarController.view];
-
+    UIView *statusBarView = [[UIView alloc] initWithFrame:CGRectMake(0, -20, 320, 20)];
+    statusBarView.backgroundColor = [UIColor blackColor];
+    [CompletedJourneyNavController.navigationBar addSubview:statusBarView];
+    
     [self.window setRootViewController:maintabBarController];
 	
-    NSLog(@"dd");
 }
 /*
 - (void)alertView:(UIAlertView *)alertView clickedButtonAtIndex:(NSInteger)buttonIndex
