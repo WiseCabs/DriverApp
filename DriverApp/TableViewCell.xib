@@ -2,13 +2,13 @@
 <archive type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="8.00">
 	<data>
 		<int key="IBDocument.SystemTarget">1280</int>
-		<string key="IBDocument.SystemVersion">13E28</string>
-		<string key="IBDocument.InterfaceBuilderVersion">6254</string>
-		<string key="IBDocument.AppKitVersion">1265.21</string>
-		<string key="IBDocument.HIToolboxVersion">698.00</string>
+		<string key="IBDocument.SystemVersion">14D136</string>
+		<string key="IBDocument.InterfaceBuilderVersion">6751</string>
+		<string key="IBDocument.AppKitVersion">1347.57</string>
+		<string key="IBDocument.HIToolboxVersion">758.70</string>
 		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
 			<string key="NS.key.0">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-			<string key="NS.object.0">6247</string>
+			<string key="NS.object.0">6736</string>
 		</object>
 		<array key="IBDocument.IntegratedClassDependencies">
 			<string>IBProxyObject</string>
@@ -120,7 +120,6 @@
 								<string key="IBUIText">ToAddress ToAddress  ToAdress  To Address</string>
 								<reference key="IBUIHighlightedColor" ref="902351187"/>
 								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
 								<int key="IBUINumberOfLines">2</int>
 								<object class="IBUIFontDescription" key="IBUIFontDescription" id="974750054">
 									<string key="name">Helvetica</string>
@@ -133,6 +132,7 @@
 									<double key="NSSize">14</double>
 									<int key="NSfFlags">16</int>
 								</object>
+								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
 								<bool key="useAutomaticPreferredMaxLayoutWidth">YES</bool>
 								<double key="preferredMaxLayoutWidth">145</double>
 							</object>
@@ -151,10 +151,10 @@
 								<string key="IBUIText">FromAddress FromAddress  </string>
 								<reference key="IBUIHighlightedColor" ref="902351187"/>
 								<int key="IBUIBaselineAdjustment">1</int>
-								<float key="IBUIMinimumFontSize">10</float>
 								<int key="IBUINumberOfLines">2</int>
 								<reference key="IBUIFontDescription" ref="974750054"/>
 								<reference key="IBUIFont" ref="128737180"/>
+								<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
 								<bool key="useAutomaticPreferredMaxLayoutWidth">YES</bool>
 								<double key="preferredMaxLayoutWidth">145</double>
 							</object>

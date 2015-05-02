@@ -29,11 +29,12 @@
 #pragma mark Application lifecycle
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
-    
+
+    [self.window makeKeyAndVisible];
+
 	[self homePageLoad];
     self.maintabBarController.tabBar.translucent = NO;
 
-	[self.window makeKeyAndVisible];
     return YES;
 	
 	
@@ -103,9 +104,11 @@
 	NSArray *tabbarArray=[NSArray arrayWithObjects:ScheduledJourneyNavController,CompletedJourneyNavController,nil];
 	maintabBarController.viewControllers=tabbarArray;
 	
-	[window addSubview:maintabBarController.view];
+//	[window addSubview:maintabBarController.view];
+
+    [self.window setRootViewController:maintabBarController];
 	
-	
+    NSLog(@"dd");
 }
 /*
 - (void)alertView:(UIAlertView *)alertView clickedButtonAtIndex:(NSInteger)buttonIndex

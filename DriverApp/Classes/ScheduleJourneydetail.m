@@ -160,7 +160,7 @@
 	
 	
 	//Getting today's date and formatting it according to required json dateformat
-	[segmentControl setFrame:CGRectMake(8.0, 0.0, 300.0, 37.0)];
+	[segmentControl setFrame:CGRectMake(8.0, 0.0, 300.0, 36.5)];
 	
 	flag=YES;
 	//if ( [[Common driverStatus] isEqualToString:@"On Route to Base Location"]) {
@@ -187,7 +187,11 @@
 	[super viewDidLoad];
     
     self.navigationController.navigationBar.translucent = NO;
+    
+    self.segmentControl.layer.cornerRadius = 5;
 
+    [[UISegmentedControl appearance] setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]} forState:UIControlStateNormal];
+    [[UISegmentedControl appearance] setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]} forState:UIControlStateSelected];
 }
 
 -(void)stopUpdatingService:(NSNotification *) notification{
@@ -354,8 +358,10 @@
                     float rd = 4.00/255.00;
                     float gr = 152.00/255.00;
                     float bl = 229.00/255.00;
-                    navController.navigationBar.tintColor =[UIColor colorWithRed:rd green:gr blue:bl alpha:1.0];
-
+                    navController.navigationBar.barTintColor =[UIColor colorWithRed:rd green:gr blue:bl alpha:1.0];
+                    [navController.navigationBar setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]}];
+                    navController.navigationBar.tintColor = [UIColor whiteColor];
+                    
                     [self.navigationController presentModalViewController:navController animated:YES];
                     [navController release];
                     [driverWaitingDetails release];
