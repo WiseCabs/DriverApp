@@ -274,6 +274,9 @@
 		 else if ([[currentObject objectForKey:@"Confirmation_Status"] intValue]==12) {
 			 allocatedJourney.JourneyStatus=@"On Board";
 		 }
+         else if ([[currentObject objectForKey:@"Confirmation_Status"] intValue]==17) {
+             allocatedJourney.JourneyStatus=@"At Customer";
+         }
 			 else {
 				 allocatedJourney.JourneyStatus=@"unAcknowledged";
 			 }
